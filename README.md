@@ -90,6 +90,41 @@ The goal is not a toy demo. It is the kind of repo I would want to review in a s
 
 ---
 
+## Live Pulse
+
+### Repo progress
+
+<!-- LIVE_REPO_PULSE:START -->
+| Repo | Stars | Forks | Open issues | Last push | Latest commit |
+|---|---:|---:|---:|---:|---|
+| [infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming) | 0 | 0 | 2 | 1h ago | [`ecfab98`](https://github.com/AkshantVats/infra-ai-streaming/commit/ecfab9896450b02f2962598e9268eb45e176c640) chore(deps): Bump actions/checkout from 4 to 6 (#33) |
+| [ebpf-llm-tracer](https://github.com/AkshantVats/ebpf-llm-tracer) | 0 | 0 | 0 | 1h ago | [`d93a2df`](https://github.com/AkshantVats/ebpf-llm-tracer/commit/d93a2df2ac49136bb524339729b6b1abdf2b6921) feat(kafka): InferenceEvent schema + Kafka producer + E2E mock (Day 17) |
+| [Profile](https://github.com/AkshantVats/Profile) | 1 | 0 | 1 | 1h ago | [`ef8b2e4`](https://github.com/AkshantVats/Profile/commit/ef8b2e43774472ae7a8758ce3c3a2d66a2e17d49) feat(blog): Day 17 — LLM Observability + Building in Public |
+<!-- LIVE_REPO_PULSE:END -->
+
+### Latest writing
+
+<!-- LATEST_BLOG_POSTS:START -->
+- [Day 17 — LLM Observability: What Actually Matters](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-17-llm-observability-what-actually-matters.html)
+- [Day 16 — The Mental Model That Made LLM Infra Click](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-16-the-mental-model-llm-infra-click.html)
+- [Day 15 — Multi-Model Routing Strategies](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-15-multi-model-routing-strategies.html)
+- [Day 14 — eBPF for AI Infrastructure: Kernel Probes vs SDK Patches](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-14-ebpf-for-ai-infrastructure.html)
+- [Day 12 of Learning LLM Inference — Embeddings as Dense Time-Series IDs](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-12-embeddings-as-dense-time-series-ids.html)
+<!-- LATEST_BLOG_POSTS:END -->
+
+### Recent public activity
+
+<!-- RECENT_ACTIVITY:START -->
+- `1h ago` pushed to [AkshantVats/AkshantVats](https://github.com/AkshantVats/AkshantVats): pushed commits
+- `1h ago` opened PR [pull request in AkshantVats/AkshantVats](https://github.com/AkshantVats/AkshantVats)
+- `1h ago` opened PR [pull request in AkshantVats/Profile](https://github.com/AkshantVats/Profile)
+- `1h ago` pushed to [AkshantVats/Profile](https://github.com/AkshantVats/Profile): pushed commits
+- `1h ago` pushed to [AkshantVats/Profile](https://github.com/AkshantVats/Profile): pushed commits
+- `1h ago` pushed to [AkshantVats/AkshantVats](https://github.com/AkshantVats/AkshantVats): pushed commits
+<!-- RECENT_ACTIVITY:END -->
+
+---
+
 ## Inferix Execution System
 
 Inferix is being built from a private 150-day plan that sequences the platform into five connected products. The point is not a calendar stunt; it is an engineering operating system for turning production infrastructure experience into a coherent AI platform.

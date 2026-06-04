@@ -1,5 +1,7 @@
 <div align="center">
 
+![Inferix header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0f766e,100:2563eb&height=190&section=header&text=Akshant%20Sharma&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Distributed%20Systems%20%7C%20AI%20Infrastructure%20%7C%20Open%20Source&descSize=16&descAlignY=58)
+
 # Akshant Sharma
 
 ### Staff Engineer building distributed systems, high-cardinality data planes, and open-source AI infrastructure.
@@ -10,12 +12,17 @@
 [![Kafka](https://img.shields.io/badge/Kafka-231f20?style=for-the-badge&logo=apachekafka&logoColor=white)](#)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)](#)
 [![ClickHouse](https://img.shields.io/badge/ClickHouse-ffcc01?style=for-the-badge&logo=clickhouse&logoColor=111827)](#)
+[![Profile Views](https://komarev.com/ghpvc/?username=AkshantVats&style=for-the-badge&color=0f766e)](https://github.com/AkshantVats)
 
 I work on the infrastructure layer underneath product features: ingestion engines, storage primitives, streaming pipelines, observability systems, and reliability controls that survive real traffic.
 
 Currently building **Inferix**, a self-hosted AI infrastructure platform that connects inference observability, agent tracing, routing, drift detection, and retraining loops.
 
 [LinkedIn](https://linkedin.com/in/akshantsharma07) · [Blog](https://akshantvats.github.io/Profile/blog/) · [Profile Site](https://akshantvats.github.io/Profile/) · [Email](mailto:akshant3@gmail.com)
+
+<br/>
+
+[`inferix`](#what-i-am-building-now) · [`flagship oss`](#flagship-oss) · [`scale`](#production-scale-i-have-worked-on) · [`stack`](#stack) · [`contact`](mailto:akshant3@gmail.com)
 
 </div>
 
@@ -74,6 +81,13 @@ Built with:
 
 The goal is not a toy demo. It is the kind of repo I would want to review in a serious infrastructure interview: architecture docs, tradeoffs, runbooks, benchmarks, failure modes, and deploy paths.
 
+<div align="center">
+
+[![infra-ai-streaming](https://github-readme-stats.vercel.app/api/pin/?username=AkshantVats&repo=infra-ai-streaming&theme=github_dark&hide_border=true)](https://github.com/AkshantVats/infra-ai-streaming)
+[![ebpf-llm-tracer](https://github-readme-stats.vercel.app/api/pin/?username=AkshantVats&repo=ebpf-llm-tracer&theme=github_dark&hide_border=true)](https://github.com/AkshantVats/ebpf-llm-tracer)
+
+</div>
+
 ---
 
 ## Inferix Execution System
@@ -125,6 +139,12 @@ I like the hard parts: cardinality, backpressure, quantiles, hot partitions, dur
 
 ## Stack
 
+<div align="center">
+
+[![Stack](https://skillicons.dev/icons?i=rust,go,java,scala,python,kafka,kubernetes,docker,terraform,aws,gcp,azure,redis,postgres,prometheus,grafana)](#)
+
+</div>
+
 ```text
 Languages       Rust, Go, Java, Scala, Python
 Streaming       Kafka, Redpanda, AWS Kinesis, Azure Event Hub
@@ -156,5 +176,6 @@ If your team cares about ingestion paths, storage engines, streaming systems, in
 <br/>
 
 ![Akshant's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkshantVats&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkshantVats&layout=compact&theme=github_dark&hide_border=true)
 
 </div>

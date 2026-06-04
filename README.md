@@ -13,7 +13,7 @@
 
 I work on the infrastructure layer underneath product features: ingestion engines, storage primitives, streaming pipelines, observability systems, and reliability controls that survive real traffic.
 
-Currently building **Inferix**, an open-source AI infrastructure platform for inference observability, agent tracing, routing, drift detection, and retraining loops.
+Currently building **Inferix**, a self-hosted AI infrastructure platform that connects inference observability, agent tracing, routing, drift detection, and retraining loops.
 
 [LinkedIn](https://linkedin.com/in/akshantsharma07) · [Blog](https://akshantvats.github.io/Profile/blog/) · [Profile Site](https://akshantvats.github.io/Profile/) · [Email](mailto:akshant3@gmail.com)
 
@@ -23,11 +23,11 @@ Currently building **Inferix**, an open-source AI infrastructure platform for in
 
 ## What I Am Building Now
 
-### Inferix: self-hosted AI infrastructure, built in public
+### Inferix: the AI infrastructure control plane
 
 Teams shipping LLM features quickly run into the same production problems: high-cardinality inference events, hidden token spend, missing agent traces, routing regressions, quality drift, and retraining workflows that do not connect to production feedback.
 
-I am building that stack as open source, one production-shaped component at a time.
+Inferix is the platform I am building to close that loop: observe every inference call, trace agent execution, route by quality and cost, detect drift, and feed production signals back into fine-tuning.
 
 ```mermaid
 flowchart LR
@@ -42,12 +42,15 @@ flowchart LR
   retrain --> route
 ```
 
-| Layer | Repo | What it proves |
+| Layer | Component | What it proves |
 |---|---|---|
-| LensAI | [infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming) | Rust ingest, WAL durability, Kafka, Go consumer, ClickHouse, Grafana, chaos tests |
-| Zero-SDK tracing | [ebpf-llm-tracer](https://github.com/AkshantVats/ebpf-llm-tracer) | Kernel-level LLM HTTP tracing without app code changes |
-| Execution system | [akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan) | 150-day public build plan across LensAI, TraceForge, RouteIQ, DriftWatch, and FineForge |
-| Writing + proof | [Profile](https://github.com/AkshantVats/Profile) | Technical posts connecting real production failures to AI infra design decisions |
+| Inference observability | [LensAI / infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming) | Rust ingest, WAL durability, Kafka, Go consumer, ClickHouse, Grafana, chaos tests |
+| Zero-SDK telemetry | [ebpf-llm-tracer](https://github.com/AkshantVats/ebpf-llm-tracer) | Kernel-level LLM HTTP tracing without app code changes |
+| Agent execution | TraceForge | Tool-call spans, replay, benchmark runner, agent workflow visibility |
+| Routing + cost control | RouteIQ | Semantic cache, prompt fingerprints, tenant budgets, fallback chains |
+| Quality loop | DriftWatch + FineForge | Drift detection, judge evals, data prep, LoRA training, model registry |
+
+The private 150-day plan is the execution root behind this platform: daily code artifacts, design docs, benchmarks, launch notes, and learning threads that turn the product thesis into repos.
 
 ---
 
@@ -73,9 +76,9 @@ The goal is not a toy demo. It is the kind of repo I would want to review in a s
 
 ---
 
-## 150-Day Public Build
+## Inferix Execution System
 
-I am running a 150-day execution plan to turn production infra experience into a coherent OSS AI infrastructure platform.
+Inferix is being built from a private 150-day plan that sequences the platform into five connected products. The point is not a calendar stunt; it is an engineering operating system for turning production infrastructure experience into a coherent AI platform.
 
 | Phase | Days | Product | Focus |
 |---|---:|---|---|
@@ -85,13 +88,13 @@ I am running a 150-day execution plan to turn production infra experience into a
 | 4 | 90-119 | DriftWatch | Shadow traffic, judge evals, quality scoring, drift alerts |
 | 5 | 120-149 | FineForge | Data prep, LoRA training, model registry, eval harness |
 
-Each day ties three things together:
+Every planned build day ties three things together:
 
 - code artifact: repo, design doc, benchmark, chart, test, or runbook
 - AI infra learning: inference mechanics, routing, evals, agents, fine-tuning
 - production memory: Agoda TSDB, Wayfair pricing, Delivery Hero logistics, Walmart IoT
 
-That is the thesis: **real AI infrastructure is distributed systems work wearing a new API shape.**
+That is the thesis behind Inferix: **real AI infrastructure is distributed systems work wearing a new API shape.**
 
 ---
 
@@ -138,7 +141,7 @@ AI Infra        LLM inference pipelines, eBPF telemetry, evals, routing, cost co
 
 - [Day 14: eBPF for AI Infrastructure](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-14-ebpf-for-ai-infrastructure.html)
 - [Profile blog](https://akshantvats.github.io/Profile/blog/)
-- [150-day plan](https://github.com/AkshantVats/akshant-150-day-plan)
+- [Profile site](https://akshantvats.github.io/Profile/)
 
 ---
 

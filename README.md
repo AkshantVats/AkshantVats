@@ -97,30 +97,30 @@ The goal is not a toy demo. It is the kind of repo I would want to review in a s
 <!-- LIVE_REPO_PULSE:START -->
 | Repo | Stars | Forks | Open issues | Last push | Latest commit |
 |---|---:|---:|---:|---:|---|
-| [infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming) | 0 | 0 | 2 | 1h ago | [`ecfab98`](https://github.com/AkshantVats/infra-ai-streaming/commit/ecfab9896450b02f2962598e9268eb45e176c640) chore(deps): Bump actions/checkout from 4 to 6 (#33) |
-| [ebpf-llm-tracer](https://github.com/AkshantVats/ebpf-llm-tracer) | 0 | 0 | 0 | 1h ago | [`d93a2df`](https://github.com/AkshantVats/ebpf-llm-tracer/commit/d93a2df2ac49136bb524339729b6b1abdf2b6921) feat(kafka): InferenceEvent schema + Kafka producer + E2E mock (Day 17) |
-| [Profile](https://github.com/AkshantVats/Profile) | 1 | 0 | 1 | 1h ago | [`ef8b2e4`](https://github.com/AkshantVats/Profile/commit/ef8b2e43774472ae7a8758ce3c3a2d66a2e17d49) feat(blog): Day 17 — LLM Observability + Building in Public |
+| [infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming) | 0 | 0 | 2 | 2h ago | [`be1c40b`](https://github.com/AkshantVats/infra-ai-streaming/commit/be1c40b21092b9ebf153bb3d341232d17c35c882) chore(deps): Bump the rust-minor-patch group across 1 directory with 8 updates |
+| [ebpf-llm-tracer](https://github.com/AkshantVats/ebpf-llm-tracer) | 0 | 0 | 0 | 1mo ago | [`65eecc3`](https://github.com/AkshantVats/ebpf-llm-tracer/commit/65eecc39017bbde790c687c63ec7a3841d438380) Merge pull request #9 from AkshantVats/docs/readme-overhaul-day20 |
+| [Profile](https://github.com/AkshantVats/Profile) | 1 | 0 | 0 | 2h ago | [`e1f2442`](https://github.com/AkshantVats/Profile/commit/e1f2442b68f97c06630aef3659a5fa5af74bb9a1) Day 34: ClickHouse for Traces — Not Just Metrics (Experience) |
 <!-- LIVE_REPO_PULSE:END -->
 
 ### Latest writing
 
 <!-- LATEST_BLOG_POSTS:START -->
-- [Day 17 — LLM Observability: What Actually Matters](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-17-llm-observability-what-actually-matters.html)
-- [Day 16 — The Mental Model That Made LLM Infra Click](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-16-the-mental-model-llm-infra-click.html)
-- [Day 15 — Multi-Model Routing Strategies](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-15-multi-model-routing-strategies.html)
-- [Day 14 — eBPF for AI Infrastructure: Kernel Probes vs SDK Patches](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-14-ebpf-for-ai-infrastructure.html)
-- [Day 12 of Learning LLM Inference — Embeddings as Dense Time-Series IDs](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-12-embeddings-as-dense-time-series-ids.html)
+- [Day 34 — Trace Storage Layout — Sort Keys Matter](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-34-trace-storage-layout-sort-keys-matter.html)
+- [Day 34 — ClickHouse for Traces: Not Just Metrics](https://akshantvats.github.io/Profile/blog/series/experience/day-34-clickhouse-for-traces-not-just-metrics.html)
+- [Day 33 — Context Propagation in Polyglot Agents](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-33-context-propagation-polyglot-agents.html)
+- [Day 33 — SDK Wrappers: The Last Resort That Ships](https://akshantvats.github.io/Profile/blog/series/experience/day-33-sdk-wrappers-last-resort-that-ships.html)
+- [Day 32 — Tool Calling Protocols — OpenAI vs Anthropic](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-32-tool-calling-protocols-openai-vs-anthropic.html)
 <!-- LATEST_BLOG_POSTS:END -->
 
 ### Recent public activity
 
 <!-- RECENT_ACTIVITY:START -->
-- `1h ago` pushed to [AkshantVats/AkshantVats](https://github.com/AkshantVats/AkshantVats): pushed commits
-- `1h ago` opened PR [pull request in AkshantVats/AkshantVats](https://github.com/AkshantVats/AkshantVats)
-- `1h ago` opened PR [pull request in AkshantVats/Profile](https://github.com/AkshantVats/Profile)
-- `1h ago` pushed to [AkshantVats/Profile](https://github.com/AkshantVats/Profile): pushed commits
-- `1h ago` pushed to [AkshantVats/Profile](https://github.com/AkshantVats/Profile): pushed commits
-- `1h ago` pushed to [AkshantVats/AkshantVats](https://github.com/AkshantVats/AkshantVats): pushed commits
+- `2h ago` created branch in [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan)
+- `2h ago` opened PR [pull request in AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan)
+- `2h ago` opened PR [pull request in AkshantVats/infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming)
+- `2h ago` created branch in [AkshantVats/infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming)
+- `2h ago` pushed to [AkshantVats/Profile](https://github.com/AkshantVats/Profile): pushed commits
+- `2h ago` created branch in [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan)
 <!-- RECENT_ACTIVITY:END -->
 
 ---

@@ -7,6 +7,7 @@ on:
 
 permissions:
   contents: write
+  pull-requests: write
 
 jobs:
   update:
@@ -29,11 +30,21 @@ jobs:
             echo "changed=true" >> $GITHUB_OUTPUT
           fi
 
-      - name: Commit and push to main
+      - name: Commit, push branch, and auto-merge PR
         if: steps.changes.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
+          BRANCH="readme-auto-update-$(date +%Y%m%d%H%M%S)"
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout -b "$BRANCH"
           git add README.md
           git commit -m "Update live profile sections"
-          git push origin main
+          git push origin "$BRANCH"
+          PR_URL=$(gh pr create \
+            --title "Update live profile sections" \
+            --body "Automated README update from scheduled workflow." \
+            --base main \
+            --head "$BRANCH")
+          gh pr merge "$PR_URL" --squash --delete-branch --admin

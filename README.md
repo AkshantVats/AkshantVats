@@ -97,30 +97,30 @@ The goal is not a toy demo. It is the kind of repo I would want to review in a s
 <!-- LIVE_REPO_PULSE:START -->
 | Repo | Stars | Forks | Open issues | Last push | Latest commit |
 |---|---:|---:|---:|---:|---|
-| [infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming) | 0 | 0 | 0 | 5h ago | [`06d0d7e`](https://github.com/AkshantVats/infra-ai-streaming/commit/06d0d7ef65bdf014370ea0b003b7e34cbee6de86) test: integration test infrastructure and coverage improvements (#82) |
-| [ebpf-llm-tracer](https://github.com/AkshantVats/ebpf-llm-tracer) | 0 | 0 | 0 | 6h ago | [`4d3ce13`](https://github.com/AkshantVats/ebpf-llm-tracer/commit/4d3ce137097ecc9115a5b45ce01062716af02d5d) test: coverage improvements and GitHub Actions CI (#10) |
-| [Profile](https://github.com/AkshantVats/Profile) | 1 | 0 | 0 | 16h ago | [`795a67e`](https://github.com/AkshantVats/Profile/commit/795a67ef923b9911e8b309473e6f7be39db96749) covers: Day 38 AI Learning + Experience (Pillow fallback) |
+| [infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming) | 0 | 0 | 1 | 3h ago | [`06d0d7e`](https://github.com/AkshantVats/infra-ai-streaming/commit/06d0d7ef65bdf014370ea0b003b7e34cbee6de86) test: integration test infrastructure and coverage improvements (#82) |
+| [ebpf-llm-tracer](https://github.com/AkshantVats/ebpf-llm-tracer) | 0 | 0 | 0 | 11h ago | [`4d3ce13`](https://github.com/AkshantVats/ebpf-llm-tracer/commit/4d3ce137097ecc9115a5b45ce01062716af02d5d) test: coverage improvements and GitHub Actions CI (#10) |
+| [Profile](https://github.com/AkshantVats/Profile) | 1 | 0 | 0 | 2h ago | [`fbc4a82`](https://github.com/AkshantVats/Profile/commit/fbc4a820993a01b859f6efa26475fae77da3c60f) sitemap+llms: Day 39 indexed |
 <!-- LIVE_REPO_PULSE:END -->
 
 ### Latest writing
 
 <!-- LATEST_BLOG_POSTS:START -->
+- [Day 39 — Exclusive Time vs Wall Time](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-39-exclusive-time-wall-time.html)
+- [Day 39 — The Tool That Ate Your Margin](https://akshantvats.github.io/Profile/blog/series/experience/day-39-tool-ate-your-margin.html)
 - [Day 38 — Adapter Pattern for Vendor Drift](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-38-adapter-pattern-vendor-drift.html)
 - [Day 38 — Golden Files — How Platforms Survive API Drift](https://akshantvats.github.io/Profile/blog/series/experience/day-38-golden-files-supplier-api-drift.html)
 - [Day 37 — Tool Taxonomies — Ontology Before Metrics](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-37-tool-taxonomies-ontology.html)
-- [Day 37 — LangChain Is Four Vendors in a Trenchcoat](https://akshantvats.github.io/Profile/blog/series/experience/day-37-langchain-four-vendors.html)
-- [Day 36 — Tail Sampling for Agent Traces](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-36-tail-sampling-agent-traces.html)
 <!-- LATEST_BLOG_POSTS:END -->
 
 ### Recent public activity
 
 <!-- RECENT_ACTIVITY:START -->
-- `4h ago` pushed to [AkshantVats/AkshantVats](https://github.com/AkshantVats/AkshantVats): pushed commits
-- `4h ago` pushed to [AkshantVats/AkshantVats](https://github.com/AkshantVats/AkshantVats): pushed commits
-- `5h ago` pushed to [AkshantVats/infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming): pushed commits
-- `5h ago` merged PR [pull request in AkshantVats/infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming)
-- `6h ago` pushed to [AkshantVats/infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming): pushed commits
-- `6h ago` pushed to [AkshantVats/infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming): pushed commits
+- `2h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
+- `2h ago` pushed to [AkshantVats/Profile](https://github.com/AkshantVats/Profile): pushed commits
+- `2h ago` pushed to [AkshantVats/Profile](https://github.com/AkshantVats/Profile): pushed commits
+- `2h ago` created branch in [AkshantVats/Profile](https://github.com/AkshantVats/Profile)
+- `3h ago` opened PR [pull request in AkshantVats/infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming)
+- `3h ago` created branch in [AkshantVats/infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming)
 <!-- RECENT_ACTIVITY:END -->
 
 ---

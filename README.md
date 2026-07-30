@@ -97,29 +97,29 @@ The goal is not a toy demo. It is the kind of repo I would want to review in a s
 <!-- LIVE_REPO_PULSE:START -->
 | Repo | Stars | Forks | Open issues | Last push | Latest commit |
 |---|---:|---:|---:|---:|---|
-| [infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming) | 0 | 0 | 8 | 1h ago | [`06d0d7e`](https://github.com/AkshantVats/infra-ai-streaming/commit/06d0d7ef65bdf014370ea0b003b7e34cbee6de86) test: integration test infrastructure and coverage improvements (#82) |
-| [ebpf-llm-tracer](https://github.com/AkshantVats/ebpf-llm-tracer) | 0 | 0 | 0 | 19h ago | [`4d3ce13`](https://github.com/AkshantVats/ebpf-llm-tracer/commit/4d3ce137097ecc9115a5b45ce01062716af02d5d) test: coverage improvements and GitHub Actions CI (#10) |
-| [Profile](https://github.com/AkshantVats/Profile) | 1 | 0 | 0 | 1h ago | [`6ccfcd5`](https://github.com/AkshantVats/Profile/commit/6ccfcd514081f0acdf21b5576857d932a49489dd) sitemap+llms: Day 41 indexed |
+| [infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming) | 0 | 0 | 6 | 1h ago | [`15f8048`](https://github.com/AkshantVats/infra-ai-streaming/commit/15f8048cf8b660d09a96e3d70e6e8b12f6fe40e2) Day 40: Tool dependency graph, N+1 detection, traceforge CLI (#89) |
+| [ebpf-llm-tracer](https://github.com/AkshantVats/ebpf-llm-tracer) | 0 | 0 | 0 | 1d ago | [`4d3ce13`](https://github.com/AkshantVats/ebpf-llm-tracer/commit/4d3ce137097ecc9115a5b45ce01062716af02d5d) test: coverage improvements and GitHub Actions CI (#10) |
+| [Profile](https://github.com/AkshantVats/Profile) | 1 | 0 | 0 | 1h ago | [`6703904`](https://github.com/AkshantVats/Profile/commit/6703904f0df059e65b9a3ba1e9e667bd1cfe4591) sitemap+llms: Day 42 indexed |
 <!-- LIVE_REPO_PULSE:END -->
 
 ### Latest writing
 
 <!-- LATEST_BLOG_POSTS:START -->
+- [Day 42 — Unified Billing Events — One Envelope](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-42-unified-billing-events-one-envelope.html)
+- [Day 42 — One Dashboard for Inference and Tools](https://akshantvats.github.io/Profile/blog/series/experience/day-42-one-dashboard-inference-tools.html)
 - [Day 41 — Cost Waterfalls — CFO-Friendly Visuals](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-41-cost-waterfalls-cfo-friendly-visuals.html)
 - [Day 41 — Exclusive Time — Flame Graphs for Money](https://akshantvats.github.io/Profile/blog/series/experience/day-41-exclusive-time-flame-graphs-for-money.html)
 - [Day 40 — Graph Algorithms on Traces](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-40-graph-algorithms-on-traces.html)
-- [Day 40 — N+1 Tool Calls — The SELECT * of Agents](https://akshantvats.github.io/Profile/blog/series/experience/day-40-n1-tool-calls-select-star-of-agents.html)
-- [Day 39 — Exclusive Time vs Wall Time](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-39-exclusive-time-wall-time.html)
 <!-- LATEST_BLOG_POSTS:END -->
 
 ### Recent public activity
 
 <!-- RECENT_ACTIVITY:START -->
-- `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
 - `1h ago` pushed to [AkshantVats/Profile](https://github.com/AkshantVats/Profile): pushed commits
+- `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
 - `1h ago` pushed to [AkshantVats/Profile](https://github.com/AkshantVats/Profile): pushed commits
 - `1h ago` created branch in [AkshantVats/Profile](https://github.com/AkshantVats/Profile)
-- `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
+- `1h ago` closed PR [pull request in AkshantVats/infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming)
 - `1h ago` opened PR [pull request in AkshantVats/infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming)
 <!-- RECENT_ACTIVITY:END -->
 

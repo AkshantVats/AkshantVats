@@ -97,30 +97,30 @@ The goal is not a toy demo. It is the kind of repo I would want to review in a s
 <!-- LIVE_REPO_PULSE:START -->
 | Repo | Stars | Forks | Open issues | Last push | Latest commit |
 |---|---:|---:|---:|---:|---|
-| [infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming) | 0 | 0 | 1 | 3h ago | [`06d0d7e`](https://github.com/AkshantVats/infra-ai-streaming/commit/06d0d7ef65bdf014370ea0b003b7e34cbee6de86) test: integration test infrastructure and coverage improvements (#82) |
-| [ebpf-llm-tracer](https://github.com/AkshantVats/ebpf-llm-tracer) | 0 | 0 | 0 | 11h ago | [`4d3ce13`](https://github.com/AkshantVats/ebpf-llm-tracer/commit/4d3ce137097ecc9115a5b45ce01062716af02d5d) test: coverage improvements and GitHub Actions CI (#10) |
-| [Profile](https://github.com/AkshantVats/Profile) | 1 | 0 | 0 | 2h ago | [`fbc4a82`](https://github.com/AkshantVats/Profile/commit/fbc4a820993a01b859f6efa26475fae77da3c60f) sitemap+llms: Day 39 indexed |
+| [infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming) | 0 | 0 | 8 | 1h ago | [`06d0d7e`](https://github.com/AkshantVats/infra-ai-streaming/commit/06d0d7ef65bdf014370ea0b003b7e34cbee6de86) test: integration test infrastructure and coverage improvements (#82) |
+| [ebpf-llm-tracer](https://github.com/AkshantVats/ebpf-llm-tracer) | 0 | 0 | 0 | 19h ago | [`4d3ce13`](https://github.com/AkshantVats/ebpf-llm-tracer/commit/4d3ce137097ecc9115a5b45ce01062716af02d5d) test: coverage improvements and GitHub Actions CI (#10) |
+| [Profile](https://github.com/AkshantVats/Profile) | 1 | 0 | 0 | 1h ago | [`6ccfcd5`](https://github.com/AkshantVats/Profile/commit/6ccfcd514081f0acdf21b5576857d932a49489dd) sitemap+llms: Day 41 indexed |
 <!-- LIVE_REPO_PULSE:END -->
 
 ### Latest writing
 
 <!-- LATEST_BLOG_POSTS:START -->
+- [Day 41 — Cost Waterfalls — CFO-Friendly Visuals](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-41-cost-waterfalls-cfo-friendly-visuals.html)
+- [Day 41 — Exclusive Time — Flame Graphs for Money](https://akshantvats.github.io/Profile/blog/series/experience/day-41-exclusive-time-flame-graphs-for-money.html)
+- [Day 40 — Graph Algorithms on Traces](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-40-graph-algorithms-on-traces.html)
+- [Day 40 — N+1 Tool Calls — The SELECT * of Agents](https://akshantvats.github.io/Profile/blog/series/experience/day-40-n1-tool-calls-select-star-of-agents.html)
 - [Day 39 — Exclusive Time vs Wall Time](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-39-exclusive-time-wall-time.html)
-- [Day 39 — The Tool That Ate Your Margin](https://akshantvats.github.io/Profile/blog/series/experience/day-39-tool-ate-your-margin.html)
-- [Day 38 — Adapter Pattern for Vendor Drift](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-38-adapter-pattern-vendor-drift.html)
-- [Day 38 — Golden Files — How Platforms Survive API Drift](https://akshantvats.github.io/Profile/blog/series/experience/day-38-golden-files-supplier-api-drift.html)
-- [Day 37 — Tool Taxonomies — Ontology Before Metrics](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-37-tool-taxonomies-ontology.html)
 <!-- LATEST_BLOG_POSTS:END -->
 
 ### Recent public activity
 
 <!-- RECENT_ACTIVITY:START -->
-- `2h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
-- `2h ago` pushed to [AkshantVats/Profile](https://github.com/AkshantVats/Profile): pushed commits
-- `2h ago` pushed to [AkshantVats/Profile](https://github.com/AkshantVats/Profile): pushed commits
-- `2h ago` created branch in [AkshantVats/Profile](https://github.com/AkshantVats/Profile)
-- `3h ago` opened PR [pull request in AkshantVats/infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming)
-- `3h ago` created branch in [AkshantVats/infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming)
+- `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
+- `1h ago` pushed to [AkshantVats/Profile](https://github.com/AkshantVats/Profile): pushed commits
+- `1h ago` pushed to [AkshantVats/Profile](https://github.com/AkshantVats/Profile): pushed commits
+- `1h ago` created branch in [AkshantVats/Profile](https://github.com/AkshantVats/Profile)
+- `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
+- `1h ago` opened PR [pull request in AkshantVats/infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming)
 <!-- RECENT_ACTIVITY:END -->
 
 ---

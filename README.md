@@ -97,30 +97,30 @@ The goal is not a toy demo. It is the kind of repo I would want to review in a s
 <!-- LIVE_REPO_PULSE:START -->
 | Repo | Stars | Forks | Open issues | Last push | Latest commit |
 |---|---:|---:|---:|---:|---|
-| [infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming) | 0 | 0 | 6 | 2h ago | [`3e5382c`](https://github.com/AkshantVats/infra-ai-streaming/commit/3e5382c2193b47f2a3fad4ded8a42cc7de3027e1) feat: agent-replay-engine — event log + tool mocker (Day 44) (#95) |
+| [infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming) | 0 | 0 | 5 | 1h ago | [`bc135f7`](https://github.com/AkshantVats/infra-ai-streaming/commit/bc135f702f03b93d62429427fcc4a364b6131667) agent-replay-engine: Day 46 — replay core + traceforge replay --stop-at-step (#98) |
 | [ebpf-llm-tracer](https://github.com/AkshantVats/ebpf-llm-tracer) | 0 | 0 | 0 | 1d ago | [`4d3ce13`](https://github.com/AkshantVats/ebpf-llm-tracer/commit/4d3ce137097ecc9115a5b45ce01062716af02d5d) test: coverage improvements and GitHub Actions CI (#10) |
-| [Profile](https://github.com/AkshantVats/Profile) | 1 | 0 | 0 | 3h ago | [`73f4371`](https://github.com/AkshantVats/Profile/commit/73f437147631c94014e64897d5a7bba8c5973bf4) sitemap+llms: Day 44 indexed |
+| [Profile](https://github.com/AkshantVats/Profile) | 1 | 0 | 0 | 1h ago | [`de09269`](https://github.com/AkshantVats/Profile/commit/de09269ff5a2675d57c42e8ea51ce595908e4ae2) sitemap+llms: Day 46 indexed |
 <!-- LIVE_REPO_PULSE:END -->
 
 ### Latest writing
 
 <!-- LATEST_BLOG_POSTS:START -->
+- [Day 46 — Deterministic Mocks — Record and Replay](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-46-deterministic-mocks-record-and-replay.html)
+- [Day 46 — Replay Step 6 — Stop Before the Blast Radius](https://akshantvats.github.io/Profile/blog/series/experience/day-46-replay-step-6-stop-before-blast-radius.html)
+- [Day 45 — Object Storage Economics for Traces](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-45-object-storage-economics-for-traces.html)
+- [Day 45 — S3 for Traces — Compliance and Cost](https://akshantvats.github.io/Profile/blog/series/experience/day-45-s3-for-traces-compliance-and-cost.html)
 - [Day 44 — Event Sourcing for Agent Runs](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-44-event-sourcing-agent-runs.html)
-- [Day 44 — Event Sourcing — But the Events Hallucinate](https://akshantvats.github.io/Profile/blog/series/experience/day-44-event-sourcing-events-hallucinate.html)
-- [Day 43 — Backpressure on Analytics Pipelines](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-43-backpressure-analytics-pipelines.html)
-- [Day 43 — Kafka as Shock Absorber — Again](https://akshantvats.github.io/Profile/blog/series/experience/day-43-kafka-shock-absorber-again.html)
-- [Day 42 — Unified Billing Events — One Envelope](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-42-unified-billing-events-one-envelope.html)
 <!-- LATEST_BLOG_POSTS:END -->
 
 ### Recent public activity
 
 <!-- RECENT_ACTIVITY:START -->
-- `2h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
-- `2h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
-- `2h ago` opened PR [pull request in AkshantVats/infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming)
-- `2h ago` created branch in [AkshantVats/infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming)
-- `2h ago` created branch in [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan)
-- `2h ago` merged PR [pull request in AkshantVats/infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming)
+- `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
+- `1h ago` pushed to [AkshantVats/Profile](https://github.com/AkshantVats/Profile): pushed commits
+- `1h ago` pushed to [AkshantVats/Profile](https://github.com/AkshantVats/Profile): pushed commits
+- `1h ago` pushed to [AkshantVats/Profile](https://github.com/AkshantVats/Profile): pushed commits
+- `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
+- `1h ago` pushed to [AkshantVats/infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming): pushed commits
 <!-- RECENT_ACTIVITY:END -->
 
 ---

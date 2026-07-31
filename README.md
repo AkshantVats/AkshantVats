@@ -97,29 +97,29 @@ The goal is not a toy demo. It is the kind of repo I would want to review in a s
 <!-- LIVE_REPO_PULSE:START -->
 | Repo | Stars | Forks | Open issues | Last push | Latest commit |
 |---|---:|---:|---:|---:|---|
-| [infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming) | 0 | 0 | 5 | 1h ago | [`bc135f7`](https://github.com/AkshantVats/infra-ai-streaming/commit/bc135f702f03b93d62429427fcc4a364b6131667) agent-replay-engine: Day 46 — replay core + traceforge replay --stop-at-step (#98) |
-| [ebpf-llm-tracer](https://github.com/AkshantVats/ebpf-llm-tracer) | 0 | 0 | 0 | 1d ago | [`4d3ce13`](https://github.com/AkshantVats/ebpf-llm-tracer/commit/4d3ce137097ecc9115a5b45ce01062716af02d5d) test: coverage improvements and GitHub Actions CI (#10) |
-| [Profile](https://github.com/AkshantVats/Profile) | 1 | 0 | 0 | 1h ago | [`de09269`](https://github.com/AkshantVats/Profile/commit/de09269ff5a2675d57c42e8ea51ce595908e4ae2) sitemap+llms: Day 46 indexed |
+| [infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming) | 0 | 0 | 5 | 1h ago | [`5f953f4`](https://github.com/AkshantVats/infra-ai-streaming/commit/5f953f4f5394cd7a7d538ac6401107089b5e2fc1) feat(agent-replay-engine): Day 47 — traceforge diff, first diverging span (#99) |
+| [ebpf-llm-tracer](https://github.com/AkshantVats/ebpf-llm-tracer) | 0 | 0 | 0 | 2d ago | [`4d3ce13`](https://github.com/AkshantVats/ebpf-llm-tracer/commit/4d3ce137097ecc9115a5b45ce01062716af02d5d) test: coverage improvements and GitHub Actions CI (#10) |
+| [Profile](https://github.com/AkshantVats/Profile) | 1 | 0 | 0 | 1h ago | [`c95cb5a`](https://github.com/AkshantVats/Profile/commit/c95cb5a6a0729eee438f48fa057e9f296385a61f) sitemap+llms: Day 47 indexed |
 <!-- LIVE_REPO_PULSE:END -->
 
 ### Latest writing
 
 <!-- LATEST_BLOG_POSTS:START -->
+- [Day 47 — Diff Semantics — Structural vs Textual](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-47-diff-semantics-structural-vs-textual.html)
+- [Day 47 — Diff Two Traces — Git Blame for Agents](https://akshantvats.github.io/Profile/blog/series/experience/day-47-diff-two-traces-git-blame-for-agents.html)
 - [Day 46 — Deterministic Mocks — Record and Replay](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-46-deterministic-mocks-record-and-replay.html)
 - [Day 46 — Replay Step 6 — Stop Before the Blast Radius](https://akshantvats.github.io/Profile/blog/series/experience/day-46-replay-step-6-stop-before-blast-radius.html)
 - [Day 45 — Object Storage Economics for Traces](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-45-object-storage-economics-for-traces.html)
-- [Day 45 — S3 for Traces — Compliance and Cost](https://akshantvats.github.io/Profile/blog/series/experience/day-45-s3-for-traces-compliance-and-cost.html)
-- [Day 44 — Event Sourcing for Agent Runs](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-44-event-sourcing-agent-runs.html)
 <!-- LATEST_BLOG_POSTS:END -->
 
 ### Recent public activity
 
 <!-- RECENT_ACTIVITY:START -->
 - `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
-- `1h ago` pushed to [AkshantVats/Profile](https://github.com/AkshantVats/Profile): pushed commits
-- `1h ago` pushed to [AkshantVats/Profile](https://github.com/AkshantVats/Profile): pushed commits
-- `1h ago` pushed to [AkshantVats/Profile](https://github.com/AkshantVats/Profile): pushed commits
 - `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
+- `1h ago` created branch in [AkshantVats/Profile](https://github.com/AkshantVats/Profile)
+- `1h ago` created branch in [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan)
+- `1h ago` merged PR [pull request in AkshantVats/infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming)
 - `1h ago` pushed to [AkshantVats/infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming): pushed commits
 <!-- RECENT_ACTIVITY:END -->
 

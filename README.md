@@ -97,9 +97,9 @@ The goal is not a toy demo. It is the kind of repo I would want to review in a s
 <!-- LIVE_REPO_PULSE:START -->
 | Repo | Stars | Forks | Open issues | Last push | Latest commit |
 |---|---:|---:|---:|---:|---|
-| [infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming) | 0 | 0 | 5 | 1h ago | [`6e313a0`](https://github.com/AkshantVats/infra-ai-streaming/commit/6e313a0fce998a442e607ec55cd782fddd0a7b64) refactor: oss-polish day-49 — document agent-replay-engine in local CI matrix (100% pass rate) (#102) |
+| [infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming) | 0 | 0 | 5 | 9h ago | [`6e313a0`](https://github.com/AkshantVats/infra-ai-streaming/commit/6e313a0fce998a442e607ec55cd782fddd0a7b64) refactor: oss-polish day-49 — document agent-replay-engine in local CI matrix (100% pass rate) (#102) |
 | [ebpf-llm-tracer](https://github.com/AkshantVats/ebpf-llm-tracer) | 0 | 0 | 0 | 2d ago | [`4d3ce13`](https://github.com/AkshantVats/ebpf-llm-tracer/commit/4d3ce137097ecc9115a5b45ce01062716af02d5d) test: coverage improvements and GitHub Actions CI (#10) |
-| [Profile](https://github.com/AkshantVats/Profile) | 1 | 0 | 1 | 2h ago | [`c879f90`](https://github.com/AkshantVats/Profile/commit/c879f90237d071da89ebb3fff5167d3c5f2c8a5d) Day 49 blogs: Streaming Parsers for OOM-Safe Debugging (AI Learning + Experience) (#57) |
+| [Profile](https://github.com/AkshantVats/Profile) | 1 | 0 | 1 | 1h ago | [`68600b7`](https://github.com/AkshantVats/Profile/commit/68600b7a2dd88c4018bc6f38d73599fafbc0a33b) sitemap+llms: Day 48 indexed |
 <!-- LIVE_REPO_PULSE:END -->
 
 ### Latest writing
@@ -107,20 +107,20 @@ The goal is not a toy demo. It is the kind of repo I would want to review in a s
 <!-- LATEST_BLOG_POSTS:START -->
 - [Day 49 — Streaming Parsers — OOM-Safe Debugging](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-49-streaming-parsers-oom-safe-debugging.html)
 - [Day 49 — Streaming Parser — Don't OOM the Debugger](https://akshantvats.github.io/Profile/blog/series/experience/day-49-streaming-parser-dont-oom-the-debugger.html)
+- [Day 48 — Fault Injection for Tool RPCs](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-48-fault-injection-for-tool-rpcs.html)
+- [Day 48 — Inject Timeout — Chaos for Tool RPCs](https://akshantvats.github.io/Profile/blog/series/experience/day-48-inject-timeout-chaos-for-tool-rpcs.html)
 - [Day 47 — Diff Semantics — Structural vs Textual](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-47-diff-semantics-structural-vs-textual.html)
-- [Day 47 — Diff Two Traces — Git Blame for Agents](https://akshantvats.github.io/Profile/blog/series/experience/day-47-diff-two-traces-git-blame-for-agents.html)
-- [Day 46 — Deterministic Mocks — Record and Replay](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-46-deterministic-mocks-record-and-replay.html)
 <!-- LATEST_BLOG_POSTS:END -->
 
 ### Recent public activity
 
 <!-- RECENT_ACTIVITY:START -->
-- `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
-- `1h ago` merged PR [pull request in AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan)
-- `1h ago` opened PR [pull request in AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan)
 - `1h ago` created branch in [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan)
-- `1h ago` merged PR [pull request in AkshantVats/infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming)
-- `1h ago` pushed to [AkshantVats/infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming): pushed commits
+- `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
+- `1h ago` created branch in [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan)
+- `1h ago` pushed to [AkshantVats/Profile](https://github.com/AkshantVats/Profile): pushed commits
+- `1h ago` pushed to [AkshantVats/Profile](https://github.com/AkshantVats/Profile): pushed commits
+- `9h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
 <!-- RECENT_ACTIVITY:END -->
 
 ---

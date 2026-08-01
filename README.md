@@ -97,19 +97,19 @@ The goal is not a toy demo. It is the kind of repo I would want to review in a s
 <!-- LIVE_REPO_PULSE:START -->
 | Repo | Stars | Forks | Open issues | Last push | Latest commit |
 |---|---:|---:|---:|---:|---|
-| [infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming) | 0 | 0 | 6 | 1h ago | [`6e313a0`](https://github.com/AkshantVats/infra-ai-streaming/commit/6e313a0fce998a442e607ec55cd782fddd0a7b64) refactor: oss-polish day-49 — document agent-replay-engine in local CI matrix (100% pass rate) (#102) |
+| [infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming) | 0 | 0 | 5 | 1h ago | [`9ad1362`](https://github.com/AkshantVats/infra-ai-streaming/commit/9ad136272f2182dfbc64df34889664b7d49eba26) agent-benchmark-runner: DESIGN.md — task YAML, compare two agents, success criteria (Day 51) (#104) |
 | [ebpf-llm-tracer](https://github.com/AkshantVats/ebpf-llm-tracer) | 0 | 0 | 0 | 3d ago | [`4d3ce13`](https://github.com/AkshantVats/ebpf-llm-tracer/commit/4d3ce137097ecc9115a5b45ce01062716af02d5d) test: coverage improvements and GitHub Actions CI (#10) |
-| [Profile](https://github.com/AkshantVats/Profile) | 1 | 0 | 1 | 1h ago | [`b161130`](https://github.com/AkshantVats/Profile/commit/b161130057159792305e4e5f4dd25fabebfd8fad) sitemap+llms: Day 50 indexed |
+| [Profile](https://github.com/AkshantVats/Profile) | 1 | 0 | 1 | 1h ago | [`3061bbe`](https://github.com/AkshantVats/Profile/commit/3061bbee9c4cf714534eaff88683d204f0dcf0d1) sitemap+llms: Day 51 indexed |
 <!-- LIVE_REPO_PULSE:END -->
 
 ### Latest writing
 
 <!-- LATEST_BLOG_POSTS:START -->
+- [Day 51 — Benchmark Methodology for Agents](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-51-benchmark-methodology-for-agents.html)
+- [Day 51 — Benchmark Agents Like Load Tests](https://akshantvats.github.io/Profile/blog/series/experience/day-51-benchmark-agents-like-load-tests.html)
 - [Day 50 — Operability — CLI as API](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-50-operability-cli-as-api.html)
 - [Day 50 — Copy-Paste Debuggability](https://akshantvats.github.io/Profile/blog/series/experience/day-50-copy-paste-debuggability.html)
 - [Day 49 — Streaming Parsers — OOM-Safe Debugging](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-49-streaming-parsers-oom-safe-debugging.html)
-- [Day 49 — Streaming Parser — Don't OOM the Debugger](https://akshantvats.github.io/Profile/blog/series/experience/day-49-streaming-parser-dont-oom-the-debugger.html)
-- [Day 48 — Fault Injection for Tool RPCs](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-48-fault-injection-for-tool-rpcs.html)
 <!-- LATEST_BLOG_POSTS:END -->
 
 ### Recent public activity
@@ -119,8 +119,8 @@ The goal is not a toy demo. It is the kind of repo I would want to review in a s
 - `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
 - `1h ago` pushed to [AkshantVats/Profile](https://github.com/AkshantVats/Profile): pushed commits
 - `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
-- `1h ago` pushed to [AkshantVats/Profile](https://github.com/AkshantVats/Profile): pushed commits
-- `1h ago` created branch in [AkshantVats/Profile](https://github.com/AkshantVats/Profile)
+- `1h ago` merged PR [pull request in AkshantVats/infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming)
+- `1h ago` pushed to [AkshantVats/infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming): pushed commits
 <!-- RECENT_ACTIVITY:END -->
 
 ---

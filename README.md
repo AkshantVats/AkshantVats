@@ -97,30 +97,30 @@ The goal is not a toy demo. It is the kind of repo I would want to review in a s
 <!-- LIVE_REPO_PULSE:START -->
 | Repo | Stars | Forks | Open issues | Last push | Latest commit |
 |---|---:|---:|---:|---:|---|
-| [infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming) | 0 | 0 | 5 | 9h ago | [`6e313a0`](https://github.com/AkshantVats/infra-ai-streaming/commit/6e313a0fce998a442e607ec55cd782fddd0a7b64) refactor: oss-polish day-49 — document agent-replay-engine in local CI matrix (100% pass rate) (#102) |
-| [ebpf-llm-tracer](https://github.com/AkshantVats/ebpf-llm-tracer) | 0 | 0 | 0 | 2d ago | [`4d3ce13`](https://github.com/AkshantVats/ebpf-llm-tracer/commit/4d3ce137097ecc9115a5b45ce01062716af02d5d) test: coverage improvements and GitHub Actions CI (#10) |
-| [Profile](https://github.com/AkshantVats/Profile) | 1 | 0 | 1 | 1h ago | [`68600b7`](https://github.com/AkshantVats/Profile/commit/68600b7a2dd88c4018bc6f38d73599fafbc0a33b) sitemap+llms: Day 48 indexed |
+| [infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming) | 0 | 0 | 6 | 1h ago | [`6e313a0`](https://github.com/AkshantVats/infra-ai-streaming/commit/6e313a0fce998a442e607ec55cd782fddd0a7b64) refactor: oss-polish day-49 — document agent-replay-engine in local CI matrix (100% pass rate) (#102) |
+| [ebpf-llm-tracer](https://github.com/AkshantVats/ebpf-llm-tracer) | 0 | 0 | 0 | 3d ago | [`4d3ce13`](https://github.com/AkshantVats/ebpf-llm-tracer/commit/4d3ce137097ecc9115a5b45ce01062716af02d5d) test: coverage improvements and GitHub Actions CI (#10) |
+| [Profile](https://github.com/AkshantVats/Profile) | 1 | 0 | 1 | 1h ago | [`b161130`](https://github.com/AkshantVats/Profile/commit/b161130057159792305e4e5f4dd25fabebfd8fad) sitemap+llms: Day 50 indexed |
 <!-- LIVE_REPO_PULSE:END -->
 
 ### Latest writing
 
 <!-- LATEST_BLOG_POSTS:START -->
+- [Day 50 — Operability — CLI as API](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-50-operability-cli-as-api.html)
+- [Day 50 — Copy-Paste Debuggability](https://akshantvats.github.io/Profile/blog/series/experience/day-50-copy-paste-debuggability.html)
 - [Day 49 — Streaming Parsers — OOM-Safe Debugging](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-49-streaming-parsers-oom-safe-debugging.html)
 - [Day 49 — Streaming Parser — Don't OOM the Debugger](https://akshantvats.github.io/Profile/blog/series/experience/day-49-streaming-parser-dont-oom-the-debugger.html)
 - [Day 48 — Fault Injection for Tool RPCs](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-48-fault-injection-for-tool-rpcs.html)
-- [Day 48 — Inject Timeout — Chaos for Tool RPCs](https://akshantvats.github.io/Profile/blog/series/experience/day-48-inject-timeout-chaos-for-tool-rpcs.html)
-- [Day 47 — Diff Semantics — Structural vs Textual](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-47-diff-semantics-structural-vs-textual.html)
 <!-- LATEST_BLOG_POSTS:END -->
 
 ### Recent public activity
 
 <!-- RECENT_ACTIVITY:START -->
-- `1h ago` created branch in [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan)
 - `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
-- `1h ago` created branch in [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan)
+- `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
 - `1h ago` pushed to [AkshantVats/Profile](https://github.com/AkshantVats/Profile): pushed commits
+- `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
 - `1h ago` pushed to [AkshantVats/Profile](https://github.com/AkshantVats/Profile): pushed commits
-- `9h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
+- `1h ago` created branch in [AkshantVats/Profile](https://github.com/AkshantVats/Profile)
 <!-- RECENT_ACTIVITY:END -->
 
 ---

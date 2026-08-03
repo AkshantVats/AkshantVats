@@ -97,30 +97,30 @@ The goal is not a toy demo. It is the kind of repo I would want to review in a s
 <!-- LIVE_REPO_PULSE:START -->
 | Repo | Stars | Forks | Open issues | Last push | Latest commit |
 |---|---:|---:|---:|---:|---|
-| [infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming) | 0 | 0 | 5 | 2h ago | [`f222761`](https://github.com/AkshantVats/infra-ai-streaming/commit/f222761b25631cb01431c1709f859fdfc080f829) agent-benchmark-runner: first CLI + unified docker-compose (Day 56) |
+| [infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming) | 0 | 0 | 6 | 1h ago | [`2fbb287`](https://github.com/AkshantVats/infra-ai-streaming/commit/2fbb287866a7a88319fb905b680673791e0fac14) agent-benchmark-runner: HTML landing page + LensAI dashboard cross-link (Day 57) (#112) |
 | [ebpf-llm-tracer](https://github.com/AkshantVats/ebpf-llm-tracer) | 0 | 0 | 0 | 4d ago | [`4d3ce13`](https://github.com/AkshantVats/ebpf-llm-tracer/commit/4d3ce137097ecc9115a5b45ce01062716af02d5d) test: coverage improvements and GitHub Actions CI (#10) |
-| [Profile](https://github.com/AkshantVats/Profile) | 1 | 0 | 1 | 2h ago | [`b7d4f5d`](https://github.com/AkshantVats/Profile/commit/b7d4f5d9099a6c7089daa16b816fef9775ca3893) sitemap+llms: Day 56 indexed |
+| [Profile](https://github.com/AkshantVats/Profile) | 1 | 0 | 1 | 1h ago | [`fcf903a`](https://github.com/AkshantVats/Profile/commit/fcf903ab0e5090ddc4c725c87e0a4860d0b2a305) sitemap+llms: Day 58 indexed |
 <!-- LIVE_REPO_PULSE:END -->
 
 ### Latest writing
 
 <!-- LATEST_BLOG_POSTS:START -->
+- [Day 58 — Month 2 Synthesis — Agents Are Distributed Systems](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-58-month-2-synthesis-agents-are-distributed-systems.html)
+- [Day 58 — TraceForge — Agents Need a Flight Recorder](https://akshantvats.github.io/Profile/blog/series/experience/day-58-traceforge-agents-need-a-flight-recorder.html)
+- [Day 57 — Launch Narrative — Benchmark as Hero Demo](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-57-launch-narrative-benchmark-as-hero-demo.html)
+- [Day 57 — Launch Week — Integration or Nothing](https://akshantvats.github.io/Profile/blog/series/experience/day-57-launch-week-integration-or-nothing.html)
 - [Day 56 — Monorepo vs Multi-Repo — Platform Packaging](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-56-monorepo-vs-multi-repo-platform-packaging.html)
-- [Day 56 — Org Boundaries — Public Platform Identity](https://akshantvats.github.io/Profile/blog/series/experience/day-56-org-boundaries-public-platform-identity.html)
-- [Day 55 — Cross-Product Metrics — LensAI × TraceForge](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-55-cross-product-metrics-lensai-x-traceforge.html)
-- [Day 55 — Two Products, One Tenant Bill](https://akshantvats.github.io/Profile/blog/series/experience/day-55-two-products-one-tenant-bill.html)
-- [Day 54 — Flame Graphs — CPU Profile for Agents](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-54-flame-graphs-cpu-profile-for-agents.html)
 <!-- LATEST_BLOG_POSTS:END -->
 
 ### Recent public activity
 
 <!-- RECENT_ACTIVITY:START -->
-- `2h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
-- `2h ago` merged PR [pull request in AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan)
-- `2h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
-- `2h ago` opened PR [pull request in AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan)
-- `2h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
-- `2h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
+- `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
+- `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
+- `1h ago` pushed to [AkshantVats/Profile](https://github.com/AkshantVats/Profile): pushed commits
+- `1h ago` pushed to [AkshantVats/Profile](https://github.com/AkshantVats/Profile): pushed commits
+- `1h ago` created branch in [AkshantVats/Profile](https://github.com/AkshantVats/Profile)
+- `1h ago` created branch in [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan)
 <!-- RECENT_ACTIVITY:END -->
 
 ---

@@ -97,19 +97,19 @@ The goal is not a toy demo. It is the kind of repo I would want to review in a s
 <!-- LIVE_REPO_PULSE:START -->
 | Repo | Stars | Forks | Open issues | Last push | Latest commit |
 |---|---:|---:|---:|---:|---|
-| [infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming) | 0 | 0 | 6 | 1h ago | [`2fbb287`](https://github.com/AkshantVats/infra-ai-streaming/commit/2fbb287866a7a88319fb905b680673791e0fac14) agent-benchmark-runner: HTML landing page + LensAI dashboard cross-link (Day 57) (#112) |
-| [ebpf-llm-tracer](https://github.com/AkshantVats/ebpf-llm-tracer) | 0 | 0 | 0 | 4d ago | [`4d3ce13`](https://github.com/AkshantVats/ebpf-llm-tracer/commit/4d3ce137097ecc9115a5b45ce01062716af02d5d) test: coverage improvements and GitHub Actions CI (#10) |
-| [Profile](https://github.com/AkshantVats/Profile) | 1 | 0 | 1 | 1h ago | [`fcf903a`](https://github.com/AkshantVats/Profile/commit/fcf903ab0e5090ddc4c725c87e0a4860d0b2a305) sitemap+llms: Day 58 indexed |
+| [infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming) | 0 | 0 | 5 | 1h ago | [`cdc3d2f`](https://github.com/AkshantVats/infra-ai-streaming/commit/cdc3d2f91bbb3e2888b2250516b9220ca2e396b4) feat: wire trace_id/source end-to-end for TraceForge×LensAI cross-product proof (#114) |
+| [ebpf-llm-tracer](https://github.com/AkshantVats/ebpf-llm-tracer) | 0 | 0 | 0 | 5d ago | [`4d3ce13`](https://github.com/AkshantVats/ebpf-llm-tracer/commit/4d3ce137097ecc9115a5b45ce01062716af02d5d) test: coverage improvements and GitHub Actions CI (#10) |
+| [Profile](https://github.com/AkshantVats/Profile) | 1 | 0 | 1 | 1h ago | [`b1620f5`](https://github.com/AkshantVats/Profile/commit/b1620f5ad5e2a2dbef68ca4dac6271dc81b67a27) sitemap+llms: Day 59 indexed |
 <!-- LIVE_REPO_PULSE:END -->
 
 ### Latest writing
 
 <!-- LATEST_BLOG_POSTS:START -->
+- [Day 59 — TraceForge — Agent Observability Is Distributed Tracing With Money on the Line](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-59-traceforge-agent-observability-distributed-tracing-money.html)
+- [Day 59 — TraceForge Launch — From Flight Recorder to Agent Ops](https://akshantvats.github.io/Profile/blog/series/experience/day-59-traceforge-launch-flight-recorder-to-agent-ops.html)
 - [Day 58 — Month 2 Synthesis — Agents Are Distributed Systems](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-58-month-2-synthesis-agents-are-distributed-systems.html)
 - [Day 58 — TraceForge — Agents Need a Flight Recorder](https://akshantvats.github.io/Profile/blog/series/experience/day-58-traceforge-agents-need-a-flight-recorder.html)
 - [Day 57 — Launch Narrative — Benchmark as Hero Demo](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-57-launch-narrative-benchmark-as-hero-demo.html)
-- [Day 57 — Launch Week — Integration or Nothing](https://akshantvats.github.io/Profile/blog/series/experience/day-57-launch-week-integration-or-nothing.html)
-- [Day 56 — Monorepo vs Multi-Repo — Platform Packaging](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-56-monorepo-vs-multi-repo-platform-packaging.html)
 <!-- LATEST_BLOG_POSTS:END -->
 
 ### Recent public activity
@@ -119,8 +119,8 @@ The goal is not a toy demo. It is the kind of repo I would want to review in a s
 - `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
 - `1h ago` pushed to [AkshantVats/Profile](https://github.com/AkshantVats/Profile): pushed commits
 - `1h ago` pushed to [AkshantVats/Profile](https://github.com/AkshantVats/Profile): pushed commits
-- `1h ago` created branch in [AkshantVats/Profile](https://github.com/AkshantVats/Profile)
-- `1h ago` created branch in [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan)
+- `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
+- `1h ago` pushed to [AkshantVats/infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming): pushed commits
 <!-- RECENT_ACTIVITY:END -->
 
 ---

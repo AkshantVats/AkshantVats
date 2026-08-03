@@ -97,30 +97,30 @@ The goal is not a toy demo. It is the kind of repo I would want to review in a s
 <!-- LIVE_REPO_PULSE:START -->
 | Repo | Stars | Forks | Open issues | Last push | Latest commit |
 |---|---:|---:|---:|---:|---|
-| [infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming) | 0 | 0 | 6 | 2h ago | [`cdc3d2f`](https://github.com/AkshantVats/infra-ai-streaming/commit/cdc3d2f91bbb3e2888b2250516b9220ca2e396b4) feat: wire trace_id/source end-to-end for TraceForge×LensAI cross-product proof (#114) |
+| [infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming) | 0 | 0 | 5 | 3h ago | [`09ef8d8`](https://github.com/AkshantVats/infra-ai-streaming/commit/09ef8d885aa6aa7686c74d32c6e311d27ade5666) docs: semantic-cache-engine DESIGN.md — RouteIQ arc opens (Day 60) (#115) |
 | [ebpf-llm-tracer](https://github.com/AkshantVats/ebpf-llm-tracer) | 0 | 0 | 0 | 5d ago | [`4d3ce13`](https://github.com/AkshantVats/ebpf-llm-tracer/commit/4d3ce137097ecc9115a5b45ce01062716af02d5d) test: coverage improvements and GitHub Actions CI (#10) |
-| [Profile](https://github.com/AkshantVats/Profile) | 1 | 0 | 1 | 7h ago | [`b1620f5`](https://github.com/AkshantVats/Profile/commit/b1620f5ad5e2a2dbef68ca4dac6271dc81b67a27) sitemap+llms: Day 59 indexed |
+| [Profile](https://github.com/AkshantVats/Profile) | 1 | 0 | 1 | 3h ago | [`c3976f9`](https://github.com/AkshantVats/Profile/commit/c3976f980822a3e44f037a502069a832c8f93fb4) sitemap+llms: Day 60 indexed |
 <!-- LIVE_REPO_PULSE:END -->
 
 ### Latest writing
 
 <!-- LATEST_BLOG_POSTS:START -->
+- [Day 60 — Semantic Caching Economics](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-60-semantic-caching-economics.html)
+- [Day 60 — Semantic Cache — Wayfair Pricing Deja Vu](https://akshantvats.github.io/Profile/blog/series/experience/day-60-semantic-cache-wayfair-pricing-deja-vu.html)
 - [Day 59 — TraceForge — Agent Observability Is Distributed Tracing With Money on the Line](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-59-traceforge-agent-observability-distributed-tracing-money.html)
 - [Day 59 — TraceForge Launch — From Flight Recorder to Agent Ops](https://akshantvats.github.io/Profile/blog/series/experience/day-59-traceforge-launch-flight-recorder-to-agent-ops.html)
 - [Day 58 — Month 2 Synthesis — Agents Are Distributed Systems](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-58-month-2-synthesis-agents-are-distributed-systems.html)
-- [Day 58 — TraceForge — Agents Need a Flight Recorder](https://akshantvats.github.io/Profile/blog/series/experience/day-58-traceforge-agents-need-a-flight-recorder.html)
-- [Day 57 — Launch Narrative — Benchmark as Hero Demo](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-57-launch-narrative-benchmark-as-hero-demo.html)
 <!-- LATEST_BLOG_POSTS:END -->
 
 ### Recent public activity
 
 <!-- RECENT_ACTIVITY:START -->
-- `2h ago` created branch in [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan)
-- `2h ago` opened PR [pull request in AkshantVats/infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming)
-- `2h ago` created branch in [AkshantVats/infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming)
-- `2h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
-- `6h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
-- `6h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
+- `3h ago` pushed to [AkshantVats/Profile](https://github.com/AkshantVats/Profile): pushed commits
+- `3h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
+- `3h ago` pushed to [AkshantVats/infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming): pushed commits
+- `3h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
+- `3h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
+- `3h ago` pushed to [AkshantVats/Profile](https://github.com/AkshantVats/Profile): pushed commits
 <!-- RECENT_ACTIVITY:END -->
 
 ---

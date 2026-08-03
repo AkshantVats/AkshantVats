@@ -97,9 +97,9 @@ The goal is not a toy demo. It is the kind of repo I would want to review in a s
 <!-- LIVE_REPO_PULSE:START -->
 | Repo | Stars | Forks | Open issues | Last push | Latest commit |
 |---|---:|---:|---:|---:|---|
-| [infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming) | 0 | 0 | 5 | 1h ago | [`cdc3d2f`](https://github.com/AkshantVats/infra-ai-streaming/commit/cdc3d2f91bbb3e2888b2250516b9220ca2e396b4) feat: wire trace_id/source end-to-end for TraceForge×LensAI cross-product proof (#114) |
+| [infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming) | 0 | 0 | 6 | 2h ago | [`cdc3d2f`](https://github.com/AkshantVats/infra-ai-streaming/commit/cdc3d2f91bbb3e2888b2250516b9220ca2e396b4) feat: wire trace_id/source end-to-end for TraceForge×LensAI cross-product proof (#114) |
 | [ebpf-llm-tracer](https://github.com/AkshantVats/ebpf-llm-tracer) | 0 | 0 | 0 | 5d ago | [`4d3ce13`](https://github.com/AkshantVats/ebpf-llm-tracer/commit/4d3ce137097ecc9115a5b45ce01062716af02d5d) test: coverage improvements and GitHub Actions CI (#10) |
-| [Profile](https://github.com/AkshantVats/Profile) | 1 | 0 | 1 | 1h ago | [`b1620f5`](https://github.com/AkshantVats/Profile/commit/b1620f5ad5e2a2dbef68ca4dac6271dc81b67a27) sitemap+llms: Day 59 indexed |
+| [Profile](https://github.com/AkshantVats/Profile) | 1 | 0 | 1 | 7h ago | [`b1620f5`](https://github.com/AkshantVats/Profile/commit/b1620f5ad5e2a2dbef68ca4dac6271dc81b67a27) sitemap+llms: Day 59 indexed |
 <!-- LIVE_REPO_PULSE:END -->
 
 ### Latest writing
@@ -115,12 +115,12 @@ The goal is not a toy demo. It is the kind of repo I would want to review in a s
 ### Recent public activity
 
 <!-- RECENT_ACTIVITY:START -->
-- `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
-- `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
-- `1h ago` pushed to [AkshantVats/Profile](https://github.com/AkshantVats/Profile): pushed commits
-- `1h ago` pushed to [AkshantVats/Profile](https://github.com/AkshantVats/Profile): pushed commits
-- `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
-- `1h ago` pushed to [AkshantVats/infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming): pushed commits
+- `2h ago` created branch in [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan)
+- `2h ago` opened PR [pull request in AkshantVats/infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming)
+- `2h ago` created branch in [AkshantVats/infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming)
+- `2h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
+- `6h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
+- `6h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
 <!-- RECENT_ACTIVITY:END -->
 
 ---

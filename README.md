@@ -99,30 +99,30 @@ The umbrella repo for the five-product control plane. Start here to see how Lens
 <!-- LIVE_REPO_PULSE:START -->
 | Repo | Stars | Forks | Open issues | Last push | Latest commit |
 |---|---:|---:|---:|---:|---|
-| [infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming) | 0 | 0 | 5 | 1h ago | [`18807b0`](https://github.com/AkshantVats/infra-ai-streaming/commit/18807b084623984697d2e997412cf44e06cc1742) semantic-cache-engine: docker-compose + load test harness (Day 64) (#119) |
+| [infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming) | 0 | 0 | 5 | 1h ago | [`374882d`](https://github.com/AkshantVats/infra-ai-streaming/commit/374882dc725ebddc17285e19fb0e1e0d27892025) refactor: OSS polish Day 65 (#121) |
 | [ebpf-llm-tracer](https://github.com/AkshantVats/ebpf-llm-tracer) | 0 | 0 | 0 | 6d ago | [`4d3ce13`](https://github.com/AkshantVats/ebpf-llm-tracer/commit/4d3ce137097ecc9115a5b45ce01062716af02d5d) test: coverage improvements and GitHub Actions CI (#10) |
-| [Profile](https://github.com/AkshantVats/Profile) | 1 | 0 | 1 | 1h ago | [`ec8598f`](https://github.com/AkshantVats/Profile/commit/ec8598f0d506fe18d98154c3062a9c4e71083e1d) sitemap+llms: Day 64 indexed |
+| [Profile](https://github.com/AkshantVats/Profile) | 1 | 0 | 1 | 3h ago | [`b4d3de6`](https://github.com/AkshantVats/Profile/commit/b4d3de6087d85e5237e809565c438e2c16bcbd7f) sitemap+llms: Day 65 indexed |
 <!-- LIVE_REPO_PULSE:END -->
 
 ### Latest writing
 
 <!-- LATEST_BLOG_POSTS:START -->
+- [Day 65 — Token Budgets as Rate Limits](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-65-token-budgets-as-rate-limits.html)
+- [Day 65 — Token Budgets — Finance Meets Gateway](https://akshantvats.github.io/Profile/blog/series/experience/day-65-token-budgets-finance-meets-gateway.html)
 - [Day 64 — Load Testing ANN](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-64-load-testing-ann.html)
 - [Day 64 — pgvector Under Load](https://akshantvats.github.io/Profile/blog/series/experience/day-64-pgvector-under-load.html)
 - [Day 63 — Cache Quality Metrics](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-63-cache-quality-metrics.html)
-- [Day 63 — Hit Rate Without Honesty Is Vanity](https://akshantvats.github.io/Profile/blog/series/experience/day-63-hit-rate-without-honesty-is-vanity.html)
-- [Day 62 — ANN Search at QPS](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-62-ann-search-at-qps.html)
 <!-- LATEST_BLOG_POSTS:END -->
 
 ### Recent public activity
 
 <!-- RECENT_ACTIVITY:START -->
-- `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
-- `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
 - `1h ago` pushed to [AkshantVats/infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming): pushed commits
-- `1h ago` created branch in [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan)
 - `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
-- `1h ago` pushed to [AkshantVats/Profile](https://github.com/AkshantVats/Profile): pushed commits
+- `2h ago` created branch in [AkshantVats/infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming)
+- `1h ago` merged PR [pull request in AkshantVats/infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming)
+- `3h ago` pushed to [AkshantVats/Profile](https://github.com/AkshantVats/Profile): pushed commits
+- `2h ago` opened PR [pull request in AkshantVats/infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming)
 <!-- RECENT_ACTIVITY:END -->
 
 ---

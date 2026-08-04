@@ -4,7 +4,9 @@
 
 # Akshant Sharma
 
-### Staff Engineer building distributed systems, high-cardinality data planes, and open-source AI infrastructure.
+### Software Engineer building distributed systems, high-cardinality data planes, and open-source AI infrastructure.
+
+Nearly 9 years across Wayfair, Agoda, Delivery Hero, Walmart Labs, and Integration Wizards.
 
 [![Distributed Systems](https://img.shields.io/badge/Distributed%20Systems-111827?style=for-the-badge)](#)
 [![AI Infrastructure](https://img.shields.io/badge/AI%20Infrastructure-0f766e?style=for-the-badge)](#)
@@ -22,7 +24,7 @@ Currently building **Inferix**, a self-hosted AI infrastructure platform that co
 
 <br/>
 
-[`inferix`](#what-i-am-building-now) · [`flagship oss`](#flagship-oss) · [`scale`](#production-scale-i-have-worked-on) · [`stack`](#stack) · [`contact`](mailto:akshant3@gmail.com)
+[`inferix`](#what-i-am-building-now) · [`experience`](#experience) · [`flagship oss`](#flagship-oss) · [`scale`](#production-scale-i-have-worked-on) · [`stack`](#stack) · [`contact`](mailto:akshant3@gmail.com)
 
 </div>
 
@@ -144,6 +146,26 @@ Every planned build day ties three things together:
 - production memory: Agoda TSDB, Wayfair pricing, Delivery Hero logistics, Walmart IoT
 
 That is the thesis behind Inferix: **real AI infrastructure is distributed systems work wearing a new API shape.**
+
+---
+
+## Experience
+
+| Company | Role | Tenure |
+|---|---|---|
+| **Wayfair** · Bengaluru | Sr. Software Engineer III · PAS & Pricing Promotions | Nov 2024 – Mar 2026 |
+| **Agoda** · Bangkok | Sr. Software Engineer · Core Infrastructure · WhiteFalcon TSDB | Apr 2024 – Sep 2024 |
+| **Delivery Hero** · Berlin | Sr. Software Engineer · Global Logistics Platform | Jun 2021 – Mar 2024 |
+| **Walmart Labs** · Bengaluru | Software Engineer II · WeIoT SmartBuildings | Aug 2018 – May 2021 |
+| **Integration Wizards** · Bengaluru | IoT Lead · Industrial IoT Platform | Mar 2017 – Aug 2018 |
+
+**Highlights**
+
+- **Wayfair** — GCP global pricing & promotion engine; hours → sub-seconds across 20k+ suppliers; 250k+ SKU updates/supplier at 99.99% availability.
+- **Agoda** — WhiteFalcon TSDB at 1.5T events/day; cross-tier quantile queries; RoaringBitmap Kubernetes dimensions; Parquet Zstd cold tier.
+- **Delivery Hero** — 1M+ daily orders on EKS; 5k+ route updates/sec via OSRM; async SQS + Kinesis status path.
+- **Walmart Labs** — 7M+ sensors on Azure IoT Hub; HVAC Stream Analytics loops; edge-to-cloud OTA.
+- **Integration Wizards** — IIoT ingestion for Dover USA; edge preprocessing in low-bandwidth environments.
 
 ---
 

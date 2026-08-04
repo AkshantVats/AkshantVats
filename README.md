@@ -99,30 +99,30 @@ The goal is not a toy demo. It is the kind of repo I would want to review in a s
 <!-- LIVE_REPO_PULSE:START -->
 | Repo | Stars | Forks | Open issues | Last push | Latest commit |
 |---|---:|---:|---:|---:|---|
-| [infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming) | 0 | 0 | 6 | 1h ago | [`b1d28f1`](https://github.com/AkshantVats/infra-ai-streaming/commit/b1d28f141f615d57e49891e2dbf895cb88555dde) Day 61: semantic-cache-engine embedding worker — batch of 32, idempotent on prompt_hash (#116) |
-| [ebpf-llm-tracer](https://github.com/AkshantVats/ebpf-llm-tracer) | 0 | 0 | 0 | 5d ago | [`4d3ce13`](https://github.com/AkshantVats/ebpf-llm-tracer/commit/4d3ce137097ecc9115a5b45ce01062716af02d5d) test: coverage improvements and GitHub Actions CI (#10) |
-| [Profile](https://github.com/AkshantVats/Profile) | 1 | 0 | 1 | 1h ago | [`55525f3`](https://github.com/AkshantVats/Profile/commit/55525f3e2a752c82d4a7da690e2a69012c3d097e) sitemap+llms: Day 62 indexed |
+| [infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming) | 0 | 0 | 5 | 1h ago | [`68d83f3`](https://github.com/AkshantVats/infra-ai-streaming/commit/68d83f345b7a1bf5816d25610e9320728f31bd50) semantic-cache-engine: cache analytics — hit rate, false-positive proxy, cost saved (Day 63) (#118) |
+| [ebpf-llm-tracer](https://github.com/AkshantVats/ebpf-llm-tracer) | 0 | 0 | 0 | 6d ago | [`4d3ce13`](https://github.com/AkshantVats/ebpf-llm-tracer/commit/4d3ce137097ecc9115a5b45ce01062716af02d5d) test: coverage improvements and GitHub Actions CI (#10) |
+| [Profile](https://github.com/AkshantVats/Profile) | 1 | 0 | 1 | 1h ago | [`0499dc6`](https://github.com/AkshantVats/Profile/commit/0499dc688d2ae901c2d3ba4b3395417524c395d3) sitemap+llms: Day 63 indexed |
 <!-- LIVE_REPO_PULSE:END -->
 
 ### Latest writing
 
 <!-- LATEST_BLOG_POSTS:START -->
+- [Day 63 — Cache Quality Metrics](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-63-cache-quality-metrics.html)
+- [Day 63 — Hit Rate Without Honesty Is Vanity](https://akshantvats.github.io/Profile/blog/series/experience/day-63-hit-rate-without-honesty-is-vanity.html)
 - [Day 62 — ANN Search at QPS](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-62-ann-search-at-qps.html)
 - [Day 62 — False Positives Have a Dollar Cost](https://akshantvats.github.io/Profile/blog/series/experience/day-62-false-positives-dollar-cost.html)
 - [Day 61 — Embedding Pipelines](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-61-embedding-pipelines.html)
-- [Day 61 — Embeddings Are Batch Jobs](https://akshantvats.github.io/Profile/blog/series/experience/day-61-embeddings-are-batch-jobs.html)
-- [Day 60 — Semantic Caching Economics](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-60-semantic-caching-economics.html)
 <!-- LATEST_BLOG_POSTS:END -->
 
 ### Recent public activity
 
 <!-- RECENT_ACTIVITY:START -->
 - `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
-- `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
+- `1h ago` pushed to [AkshantVats/Profile](https://github.com/AkshantVats/Profile): pushed commits
 - `1h ago` pushed to [AkshantVats/Profile](https://github.com/AkshantVats/Profile): pushed commits
 - `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
-- `1h ago` pushed to [AkshantVats/Profile](https://github.com/AkshantVats/Profile): pushed commits
-- `1h ago` created branch in [AkshantVats/Profile](https://github.com/AkshantVats/Profile)
+- `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
+- `1h ago` pushed to [AkshantVats/infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming): pushed commits
 <!-- RECENT_ACTIVITY:END -->
 
 ---

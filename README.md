@@ -99,36 +99,30 @@ The umbrella repo for the five-product control plane. Start here to see how Lens
 <!-- LIVE_REPO_PULSE:START -->
 | Repo | Stars | Forks | Open issues | Last push | Latest commit |
 |---|---:|---:|---:|---:|---|
-| [inferix](https://github.com/AkshantVats/inferix) | 0 | 0 | 0 | 3d ago | [`94c958a`](https://github.com/AkshantVats/inferix/commit/94c958a) Document Inferix suite map and product repos. |
-| [infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming) | 0 | 0 | 5 | 1h ago | [`68d83f3`](https://github.com/AkshantVats/infra-ai-streaming/commit/68d83f345b7a1bf5816d25610e9320728f31bd50) semantic-cache-engine: cache analytics — hit rate, false-positive proxy, cost saved (Day 63) (#118) |
-| [agent-trace-collector](https://github.com/AkshantVats/agent-trace-collector) | 0 | 0 | 0 | 6d ago | [`736dc1b`](https://github.com/AkshantVats/agent-trace-collector/commit/736dc1b) test: add GitHub Actions CI workflow and Makefile test targets (#2) |
-| [routeiq](https://github.com/AkshantVats/routeiq) | 0 | 0 | 0 | 3d ago | [`e2041de`](https://github.com/AkshantVats/routeiq/commit/e2041de) Clarify RouteIQ scaffold and Inferix suite links. |
-| [driftwatch](https://github.com/AkshantVats/driftwatch) | 0 | 0 | 0 | 3d ago | [`f75240e`](https://github.com/AkshantVats/driftwatch/commit/f75240e) Clarify DriftWatch scaffold and Inferix suite links. |
-| [fineforge](https://github.com/AkshantVats/fineforge) | 0 | 0 | 0 | 3d ago | [`f2603e8`](https://github.com/AkshantVats/fineforge/commit/f2603e8) Clarify FineForge scaffold and Inferix suite links. |
+| [infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming) | 0 | 0 | 5 | 1h ago | [`18807b0`](https://github.com/AkshantVats/infra-ai-streaming/commit/18807b084623984697d2e997412cf44e06cc1742) semantic-cache-engine: docker-compose + load test harness (Day 64) (#119) |
 | [ebpf-llm-tracer](https://github.com/AkshantVats/ebpf-llm-tracer) | 0 | 0 | 0 | 6d ago | [`4d3ce13`](https://github.com/AkshantVats/ebpf-llm-tracer/commit/4d3ce137097ecc9115a5b45ce01062716af02d5d) test: coverage improvements and GitHub Actions CI (#10) |
-| [inferix-web](https://github.com/AkshantVats/inferix-web) | 0 | 0 | 0 | 1d ago | [`5157aec`](https://github.com/AkshantVats/inferix-web/commit/5157aec) Update Why Inferix headline to AI Control Plane positioning. |
-| [Profile](https://github.com/AkshantVats/Profile) | 1 | 0 | 1 | 1h ago | [`0499dc6`](https://github.com/AkshantVats/Profile/commit/0499dc688d2ae901c2d3ba4b3395417524c395d3) sitemap+llms: Day 63 indexed |
+| [Profile](https://github.com/AkshantVats/Profile) | 1 | 0 | 1 | 1h ago | [`ec8598f`](https://github.com/AkshantVats/Profile/commit/ec8598f0d506fe18d98154c3062a9c4e71083e1d) sitemap+llms: Day 64 indexed |
 <!-- LIVE_REPO_PULSE:END -->
 
 ### Latest writing
 
 <!-- LATEST_BLOG_POSTS:START -->
+- [Day 64 — Load Testing ANN](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-64-load-testing-ann.html)
+- [Day 64 — pgvector Under Load](https://akshantvats.github.io/Profile/blog/series/experience/day-64-pgvector-under-load.html)
 - [Day 63 — Cache Quality Metrics](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-63-cache-quality-metrics.html)
 - [Day 63 — Hit Rate Without Honesty Is Vanity](https://akshantvats.github.io/Profile/blog/series/experience/day-63-hit-rate-without-honesty-is-vanity.html)
 - [Day 62 — ANN Search at QPS](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-62-ann-search-at-qps.html)
-- [Day 62 — False Positives Have a Dollar Cost](https://akshantvats.github.io/Profile/blog/series/experience/day-62-false-positives-dollar-cost.html)
-- [Day 61 — Embedding Pipelines](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-61-embedding-pipelines.html)
 <!-- LATEST_BLOG_POSTS:END -->
 
 ### Recent public activity
 
 <!-- RECENT_ACTIVITY:START -->
 - `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
-- `1h ago` pushed to [AkshantVats/Profile](https://github.com/AkshantVats/Profile): pushed commits
+- `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
 - `1h ago` pushed to [AkshantVats/infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming): pushed commits
-- `1h ago` opened PR on [AkshantVats/infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming)
-- `1d ago` pushed to [AkshantVats/inferix-web](https://github.com/AkshantVats/inferix-web): AI Control Plane positioning
-- `3d ago` pushed to [AkshantVats/inferix](https://github.com/AkshantVats/inferix): suite map
+- `1h ago` created branch in [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan)
+- `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
+- `1h ago` pushed to [AkshantVats/Profile](https://github.com/AkshantVats/Profile): pushed commits
 <!-- RECENT_ACTIVITY:END -->
 
 ---

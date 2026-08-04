@@ -97,30 +97,30 @@ The goal is not a toy demo. It is the kind of repo I would want to review in a s
 <!-- LIVE_REPO_PULSE:START -->
 | Repo | Stars | Forks | Open issues | Last push | Latest commit |
 |---|---:|---:|---:|---:|---|
-| [infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming) | 0 | 0 | 5 | 3h ago | [`09ef8d8`](https://github.com/AkshantVats/infra-ai-streaming/commit/09ef8d885aa6aa7686c74d32c6e311d27ade5666) docs: semantic-cache-engine DESIGN.md — RouteIQ arc opens (Day 60) (#115) |
+| [infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming) | 0 | 0 | 6 | 1h ago | [`b1d28f1`](https://github.com/AkshantVats/infra-ai-streaming/commit/b1d28f141f615d57e49891e2dbf895cb88555dde) Day 61: semantic-cache-engine embedding worker — batch of 32, idempotent on prompt_hash (#116) |
 | [ebpf-llm-tracer](https://github.com/AkshantVats/ebpf-llm-tracer) | 0 | 0 | 0 | 5d ago | [`4d3ce13`](https://github.com/AkshantVats/ebpf-llm-tracer/commit/4d3ce137097ecc9115a5b45ce01062716af02d5d) test: coverage improvements and GitHub Actions CI (#10) |
-| [Profile](https://github.com/AkshantVats/Profile) | 1 | 0 | 1 | 3h ago | [`c3976f9`](https://github.com/AkshantVats/Profile/commit/c3976f980822a3e44f037a502069a832c8f93fb4) sitemap+llms: Day 60 indexed |
+| [Profile](https://github.com/AkshantVats/Profile) | 1 | 0 | 1 | 1h ago | [`55525f3`](https://github.com/AkshantVats/Profile/commit/55525f3e2a752c82d4a7da690e2a69012c3d097e) sitemap+llms: Day 62 indexed |
 <!-- LIVE_REPO_PULSE:END -->
 
 ### Latest writing
 
 <!-- LATEST_BLOG_POSTS:START -->
+- [Day 62 — ANN Search at QPS](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-62-ann-search-at-qps.html)
+- [Day 62 — False Positives Have a Dollar Cost](https://akshantvats.github.io/Profile/blog/series/experience/day-62-false-positives-dollar-cost.html)
+- [Day 61 — Embedding Pipelines](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-61-embedding-pipelines.html)
+- [Day 61 — Embeddings Are Batch Jobs](https://akshantvats.github.io/Profile/blog/series/experience/day-61-embeddings-are-batch-jobs.html)
 - [Day 60 — Semantic Caching Economics](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-60-semantic-caching-economics.html)
-- [Day 60 — Semantic Cache — Wayfair Pricing Deja Vu](https://akshantvats.github.io/Profile/blog/series/experience/day-60-semantic-cache-wayfair-pricing-deja-vu.html)
-- [Day 59 — TraceForge — Agent Observability Is Distributed Tracing With Money on the Line](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-59-traceforge-agent-observability-distributed-tracing-money.html)
-- [Day 59 — TraceForge Launch — From Flight Recorder to Agent Ops](https://akshantvats.github.io/Profile/blog/series/experience/day-59-traceforge-launch-flight-recorder-to-agent-ops.html)
-- [Day 58 — Month 2 Synthesis — Agents Are Distributed Systems](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-58-month-2-synthesis-agents-are-distributed-systems.html)
 <!-- LATEST_BLOG_POSTS:END -->
 
 ### Recent public activity
 
 <!-- RECENT_ACTIVITY:START -->
-- `3h ago` pushed to [AkshantVats/Profile](https://github.com/AkshantVats/Profile): pushed commits
-- `3h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
-- `3h ago` pushed to [AkshantVats/infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming): pushed commits
-- `3h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
-- `3h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
-- `3h ago` pushed to [AkshantVats/Profile](https://github.com/AkshantVats/Profile): pushed commits
+- `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
+- `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
+- `1h ago` pushed to [AkshantVats/Profile](https://github.com/AkshantVats/Profile): pushed commits
+- `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
+- `1h ago` pushed to [AkshantVats/Profile](https://github.com/AkshantVats/Profile): pushed commits
+- `1h ago` created branch in [AkshantVats/Profile](https://github.com/AkshantVats/Profile)
 <!-- RECENT_ACTIVITY:END -->
 
 ---

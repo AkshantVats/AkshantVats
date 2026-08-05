@@ -99,30 +99,30 @@ The umbrella repo for the five-product control plane. Start here to see how Lens
 <!-- LIVE_REPO_PULSE:START -->
 | Repo | Stars | Forks | Open issues | Last push | Latest commit |
 |---|---:|---:|---:|---:|---|
-| [infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming) | 0 | 0 | 5 | 1h ago | [`374882d`](https://github.com/AkshantVats/infra-ai-streaming/commit/374882dc725ebddc17285e19fb0e1e0d27892025) refactor: OSS polish Day 65 (#121) |
+| [infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming) | 0 | 0 | 5 | 1h ago | [`014e221`](https://github.com/AkshantVats/infra-ai-streaming/commit/014e221a07b4c7e50db829031423b39eaa41fe19) cost-budget-enforcer: Admin API PATCH /tenants/{id}/budget + Kafka audit log (Day 67) (#123) |
 | [ebpf-llm-tracer](https://github.com/AkshantVats/ebpf-llm-tracer) | 0 | 0 | 0 | 6d ago | [`4d3ce13`](https://github.com/AkshantVats/ebpf-llm-tracer/commit/4d3ce137097ecc9115a5b45ce01062716af02d5d) test: coverage improvements and GitHub Actions CI (#10) |
-| [Profile](https://github.com/AkshantVats/Profile) | 1 | 0 | 1 | 3h ago | [`b4d3de6`](https://github.com/AkshantVats/Profile/commit/b4d3de6087d85e5237e809565c438e2c16bcbd7f) sitemap+llms: Day 65 indexed |
+| [Profile](https://github.com/AkshantVats/Profile) | 1 | 0 | 1 | 1h ago | [`6568a9f`](https://github.com/AkshantVats/Profile/commit/6568a9fd79ce002eb5900cd0cf17a13c0f34943e) sitemap+llms: Day 67 indexed |
 <!-- LIVE_REPO_PULSE:END -->
 
 ### Latest writing
 
 <!-- LATEST_BLOG_POSTS:START -->
+- [Day 67 — Live Config for Spend](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-67-live-config-for-spend.html)
+- [Day 67 — Live Budget PATCH — Ops Can't Wait for Deploy](https://akshantvats.github.io/Profile/blog/series/experience/day-67-live-budget-patch-ops-cant-wait.html)
+- [Day 66 — Hard vs Soft Limits](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-66-hard-vs-soft-limits.html)
+- [Day 66 — Midnight Rollover Bugs](https://akshantvats.github.io/Profile/blog/series/experience/day-66-midnight-rollover-bugs.html)
 - [Day 65 — Token Budgets as Rate Limits](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-65-token-budgets-as-rate-limits.html)
-- [Day 65 — Token Budgets — Finance Meets Gateway](https://akshantvats.github.io/Profile/blog/series/experience/day-65-token-budgets-finance-meets-gateway.html)
-- [Day 64 — Load Testing ANN](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-64-load-testing-ann.html)
-- [Day 64 — pgvector Under Load](https://akshantvats.github.io/Profile/blog/series/experience/day-64-pgvector-under-load.html)
-- [Day 63 — Cache Quality Metrics](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-63-cache-quality-metrics.html)
 <!-- LATEST_BLOG_POSTS:END -->
 
 ### Recent public activity
 
 <!-- RECENT_ACTIVITY:START -->
-- `1h ago` pushed to [AkshantVats/infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming): pushed commits
 - `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
-- `2h ago` created branch in [AkshantVats/infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming)
+- `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
+- `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
+- `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
+- `1h ago` pushed to [AkshantVats/infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming): pushed commits
 - `1h ago` merged PR [pull request in AkshantVats/infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming)
-- `3h ago` pushed to [AkshantVats/Profile](https://github.com/AkshantVats/Profile): pushed commits
-- `2h ago` opened PR [pull request in AkshantVats/infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming)
 <!-- RECENT_ACTIVITY:END -->
 
 ---

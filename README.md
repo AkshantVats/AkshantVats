@@ -99,30 +99,30 @@ The umbrella repo for the five-product control plane. Start here to see how Lens
 <!-- LIVE_REPO_PULSE:START -->
 | Repo | Stars | Forks | Open issues | Last push | Latest commit |
 |---|---:|---:|---:|---:|---|
-| [infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming) | 0 | 0 | 5 | 16h ago | [`014e221`](https://github.com/AkshantVats/infra-ai-streaming/commit/014e221a07b4c7e50db829031423b39eaa41fe19) cost-budget-enforcer: Admin API PATCH /tenants/{id}/budget + Kafka audit log (Day 67) (#123) |
+| [infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming) | 0 | 0 | 5 | 1h ago | [`781432e`](https://github.com/AkshantVats/infra-ai-streaming/commit/781432e30d1e23667a050bc767fd3169706da970) cost-budget-enforcer: RouteIQ stub gateway wiring spend to LensAI (Day 68) (#124) |
 | [ebpf-llm-tracer](https://github.com/AkshantVats/ebpf-llm-tracer) | 0 | 0 | 0 | 7d ago | [`4d3ce13`](https://github.com/AkshantVats/ebpf-llm-tracer/commit/4d3ce137097ecc9115a5b45ce01062716af02d5d) test: coverage improvements and GitHub Actions CI (#10) |
-| [Profile](https://github.com/AkshantVats/Profile) | 1 | 0 | 1 | 16h ago | [`6568a9f`](https://github.com/AkshantVats/Profile/commit/6568a9fd79ce002eb5900cd0cf17a13c0f34943e) sitemap+llms: Day 67 indexed |
+| [Profile](https://github.com/AkshantVats/Profile) | 1 | 0 | 1 | 1h ago | [`41c2c4e`](https://github.com/AkshantVats/Profile/commit/41c2c4e007978986f71a55c303618d3de5de2978) sitemap+llms: Day 68 indexed |
 <!-- LIVE_REPO_PULSE:END -->
 
 ### Latest writing
 
 <!-- LATEST_BLOG_POSTS:START -->
+- [Day 68 — Gateway Middleware Ordering](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-68-gateway-middleware-ordering.html)
+- [Day 68 — Stub Gateway — Compose Before Polish](https://akshantvats.github.io/Profile/blog/series/experience/day-68-stub-gateway-compose-before-polish.html)
 - [Day 67 — Live Config for Spend](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-67-live-config-for-spend.html)
 - [Day 67 — Live Budget PATCH — Ops Can't Wait for Deploy](https://akshantvats.github.io/Profile/blog/series/experience/day-67-live-budget-patch-ops-cant-wait.html)
 - [Day 66 — Hard vs Soft Limits](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-66-hard-vs-soft-limits.html)
-- [Day 66 — Midnight Rollover Bugs](https://akshantvats.github.io/Profile/blog/series/experience/day-66-midnight-rollover-bugs.html)
-- [Day 65 — Token Budgets as Rate Limits](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-65-token-budgets-as-rate-limits.html)
 <!-- LATEST_BLOG_POSTS:END -->
 
 ### Recent public activity
 
 <!-- RECENT_ACTIVITY:START -->
-- `3h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
-- `7h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
-- `12h ago` created branch in [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan)
-- `16h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
-- `16h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
-- `16h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
+- `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
+- `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
+- `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
+- `1h ago` pushed to [AkshantVats/Profile](https://github.com/AkshantVats/Profile): pushed commits
+- `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
+- `1h ago` pushed to [AkshantVats/Profile](https://github.com/AkshantVats/Profile): pushed commits
 <!-- RECENT_ACTIVITY:END -->
 
 ---

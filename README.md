@@ -99,30 +99,30 @@ The umbrella repo for the five-product control plane. Start here to see how Lens
 <!-- LIVE_REPO_PULSE:START -->
 | Repo | Stars | Forks | Open issues | Last push | Latest commit |
 |---|---:|---:|---:|---:|---|
-| [infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming) | 0 | 0 | 5 | 1h ago | [`781432e`](https://github.com/AkshantVats/infra-ai-streaming/commit/781432e30d1e23667a050bc767fd3169706da970) cost-budget-enforcer: RouteIQ stub gateway wiring spend to LensAI (Day 68) (#124) |
-| [ebpf-llm-tracer](https://github.com/AkshantVats/ebpf-llm-tracer) | 0 | 0 | 0 | 7d ago | [`4d3ce13`](https://github.com/AkshantVats/ebpf-llm-tracer/commit/4d3ce137097ecc9115a5b45ce01062716af02d5d) test: coverage improvements and GitHub Actions CI (#10) |
-| [Profile](https://github.com/AkshantVats/Profile) | 1 | 0 | 1 | 1h ago | [`41c2c4e`](https://github.com/AkshantVats/Profile/commit/41c2c4e007978986f71a55c303618d3de5de2978) sitemap+llms: Day 68 indexed |
+| [infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming) | 0 | 0 | 5 | 1h ago | [`52ad905`](https://github.com/AkshantVats/infra-ai-streaming/commit/52ad9052b16e91d2733f45dba1b2240a74b0e42e) cost-budget-enforcer: Redis outage policy — fail closed vs fail open (Day 69) (#125) |
+| [ebpf-llm-tracer](https://github.com/AkshantVats/ebpf-llm-tracer) | 0 | 0 | 0 | 8d ago | [`4d3ce13`](https://github.com/AkshantVats/ebpf-llm-tracer/commit/4d3ce137097ecc9115a5b45ce01062716af02d5d) test: coverage improvements and GitHub Actions CI (#10) |
+| [Profile](https://github.com/AkshantVats/Profile) | 1 | 0 | 1 | 1h ago | [`77a32b2`](https://github.com/AkshantVats/Profile/commit/77a32b2842fce81b4bb569b53d00066d82fccf01) sitemap+llms: Day 69 indexed |
 <!-- LIVE_REPO_PULSE:END -->
 
 ### Latest writing
 
 <!-- LATEST_BLOG_POSTS:START -->
+- [Day 69 — Failure Policies for Budget Redis](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-69-failure-policies-for-budget-redis.html)
+- [Day 69 — Fail Closed vs Open — Pick and Document](https://akshantvats.github.io/Profile/blog/series/experience/day-69-fail-closed-vs-open-pick-and-document.html)
 - [Day 68 — Gateway Middleware Ordering](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-68-gateway-middleware-ordering.html)
 - [Day 68 — Stub Gateway — Compose Before Polish](https://akshantvats.github.io/Profile/blog/series/experience/day-68-stub-gateway-compose-before-polish.html)
 - [Day 67 — Live Config for Spend](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-67-live-config-for-spend.html)
-- [Day 67 — Live Budget PATCH — Ops Can't Wait for Deploy](https://akshantvats.github.io/Profile/blog/series/experience/day-67-live-budget-patch-ops-cant-wait.html)
-- [Day 66 — Hard vs Soft Limits](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-66-hard-vs-soft-limits.html)
 <!-- LATEST_BLOG_POSTS:END -->
 
 ### Recent public activity
 
 <!-- RECENT_ACTIVITY:START -->
-- `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
-- `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
-- `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
 - `1h ago` pushed to [AkshantVats/Profile](https://github.com/AkshantVats/Profile): pushed commits
 - `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
-- `1h ago` pushed to [AkshantVats/Profile](https://github.com/AkshantVats/Profile): pushed commits
+- `1h ago` pushed to [AkshantVats/infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming): pushed commits
+- `1h ago` created branch in [AkshantVats/infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming)
+- `1h ago` created branch in [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan)
+- `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
 <!-- RECENT_ACTIVITY:END -->
 
 ---

@@ -99,29 +99,29 @@ The umbrella repo for the five-product control plane. Start here to see how Lens
 <!-- LIVE_REPO_PULSE:START -->
 | Repo | Stars | Forks | Open issues | Last push | Latest commit |
 |---|---:|---:|---:|---:|---|
-| [infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming) | 0 | 0 | 5 | 1h ago | [`52ad905`](https://github.com/AkshantVats/infra-ai-streaming/commit/52ad9052b16e91d2733f45dba1b2240a74b0e42e) cost-budget-enforcer: Redis outage policy — fail closed vs fail open (Day 69) (#125) |
+| [infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming) | 0 | 0 | 5 | 1h ago | [`ba436f5`](https://github.com/AkshantVats/infra-ai-streaming/commit/ba436f50d96a0610997af566b8866e3d6d1c25a5) docs: prompt-fingerprinter DESIGN.md — RouteIQ arc, third module (Day 70) (#126) |
 | [ebpf-llm-tracer](https://github.com/AkshantVats/ebpf-llm-tracer) | 0 | 0 | 0 | 8d ago | [`4d3ce13`](https://github.com/AkshantVats/ebpf-llm-tracer/commit/4d3ce137097ecc9115a5b45ce01062716af02d5d) test: coverage improvements and GitHub Actions CI (#10) |
-| [Profile](https://github.com/AkshantVats/Profile) | 1 | 0 | 1 | 1h ago | [`77a32b2`](https://github.com/AkshantVats/Profile/commit/77a32b2842fce81b4bb569b53d00066d82fccf01) sitemap+llms: Day 69 indexed |
+| [Profile](https://github.com/AkshantVats/Profile) | 1 | 0 | 1 | 1h ago | [`508f5b1`](https://github.com/AkshantVats/Profile/commit/508f5b160396f365d072e405874e4c4d1cb1f8de) sitemap+llms: Day 70 indexed |
 <!-- LIVE_REPO_PULSE:END -->
 
 ### Latest writing
 
 <!-- LATEST_BLOG_POSTS:START -->
+- [Day 70 — Prompt Fingerprints](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-70-prompt-fingerprints.html)
+- [Day 70 — Exact Match Before Fuzzy](https://akshantvats.github.io/Profile/blog/series/experience/day-70-exact-match-before-fuzzy.html)
 - [Day 69 — Failure Policies for Budget Redis](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-69-failure-policies-for-budget-redis.html)
 - [Day 69 — Fail Closed vs Open — Pick and Document](https://akshantvats.github.io/Profile/blog/series/experience/day-69-fail-closed-vs-open-pick-and-document.html)
 - [Day 68 — Gateway Middleware Ordering](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-68-gateway-middleware-ordering.html)
-- [Day 68 — Stub Gateway — Compose Before Polish](https://akshantvats.github.io/Profile/blog/series/experience/day-68-stub-gateway-compose-before-polish.html)
-- [Day 67 — Live Config for Spend](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-67-live-config-for-spend.html)
 <!-- LATEST_BLOG_POSTS:END -->
 
 ### Recent public activity
 
 <!-- RECENT_ACTIVITY:START -->
+- `1h ago` pushed to [AkshantVats/infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming): pushed commits
+- `1h ago` created branch in [AkshantVats/Profile](https://github.com/AkshantVats/Profile)
 - `1h ago` pushed to [AkshantVats/Profile](https://github.com/AkshantVats/Profile): pushed commits
 - `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
-- `1h ago` pushed to [AkshantVats/infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming): pushed commits
-- `1h ago` created branch in [AkshantVats/infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming)
-- `1h ago` created branch in [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan)
+- `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
 - `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
 <!-- RECENT_ACTIVITY:END -->
 

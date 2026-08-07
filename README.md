@@ -99,30 +99,30 @@ The umbrella repo for the five-product control plane. Start here to see how Lens
 <!-- LIVE_REPO_PULSE:START -->
 | Repo | Stars | Forks | Open issues | Last push | Latest commit |
 |---|---:|---:|---:|---:|---|
-| [infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming) | 0 | 0 | 0 | 2h ago | [`06f1ea2`](https://github.com/AkshantVats/infra-ai-streaming/commit/06f1ea28820a80c1b39a764aec5214246d2d932e) chore(deps): bump actions/checkout to v7 (major) |
-| [ebpf-llm-tracer](https://github.com/AkshantVats/ebpf-llm-tracer) | 0 | 0 | 0 | 8d ago | [`4d3ce13`](https://github.com/AkshantVats/ebpf-llm-tracer/commit/4d3ce137097ecc9115a5b45ce01062716af02d5d) test: coverage improvements and GitHub Actions CI (#10) |
-| [Profile](https://github.com/AkshantVats/Profile) | 1 | 0 | 0 | 4h ago | [`c6e40b9`](https://github.com/AkshantVats/Profile/commit/c6e40b9221c1e0dbdae3cee9f9e6ff56ac04e303) sitemap+llms: Day 73 indexed |
+| [infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming) | 0 | 0 | 0 | 5h ago | [`bd8e107`](https://github.com/AkshantVats/infra-ai-streaming/commit/bd8e107f58009727e896130db3ca4c82d0084883) feat(prompt-fingerprinter): OTel spans for cache tier decisions (Day 74) |
+| [ebpf-llm-tracer](https://github.com/AkshantVats/ebpf-llm-tracer) | 0 | 0 | 0 | 9d ago | [`4d3ce13`](https://github.com/AkshantVats/ebpf-llm-tracer/commit/4d3ce137097ecc9115a5b45ce01062716af02d5d) test: coverage improvements and GitHub Actions CI (#10) |
+| [Profile](https://github.com/AkshantVats/Profile) | 1 | 0 | 0 | 5h ago | [`a62eb4c`](https://github.com/AkshantVats/Profile/commit/a62eb4c10d1f69026fba776f79471ad10cc1b6df) sitemap+llms: Day 74 indexed |
 <!-- LIVE_REPO_PULSE:END -->
 
 ### Latest writing
 
 <!-- LATEST_BLOG_POSTS:START -->
+- [Day 74 — Quality Scorer Preview](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-74-quality-scorer-preview.html)
+- [Day 74 — OTel for Cache Tiers](https://akshantvats.github.io/Profile/blog/series/experience/day-74-otel-for-cache-tiers.html)
 - [Day 73 — Collision Handling](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-73-collision-handling.html)
 - [Day 73 — Hash Collisions Happen](https://akshantvats.github.io/Profile/blog/series/experience/day-73-hash-collisions-happen.html)
 - [Day 72 — L1/L2 Stack Design](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-72-l1-l2-stack-design.html)
-- [Day 72 — Two-Tier Cache Metrics](https://akshantvats.github.io/Profile/blog/series/experience/day-72-two-tier-cache-metrics.html)
-- [Day 71 — Canonicalization Rules](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-71-canonicalization-rules.html)
 <!-- LATEST_BLOG_POSTS:END -->
 
 ### Recent public activity
 
 <!-- RECENT_ACTIVITY:START -->
-- `2h ago` pushed to [AkshantVats/lensai-integration](https://github.com/AkshantVats/lensai-integration): pushed commits
-- `2h ago` pushed to [AkshantVats/infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming): pushed commits
-- `2h ago` merged PR [pull request in AkshantVats/lensai-integration](https://github.com/AkshantVats/lensai-integration)
-- `2h ago` pushed to [AkshantVats/lensai-integration](https://github.com/AkshantVats/lensai-integration): pushed commits
-- `2h ago` pushed to [AkshantVats/infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming): pushed commits
-- `2h ago` pushed to [AkshantVats/infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming): pushed commits
+- `5h ago` created branch in [AkshantVats/fallback-chain](https://github.com/AkshantVats/fallback-chain)
+- `5h ago` created branch in [AkshantVats/eval-harness](https://github.com/AkshantVats/eval-harness)
+- `5h ago` created branch in [AkshantVats/alert-rule-engine](https://github.com/AkshantVats/alert-rule-engine)
+- `5h ago` created branch in [AkshantVats/drift-detector](https://github.com/AkshantVats/drift-detector)
+- `5h ago` created branch in [AkshantVats/distributed-flagd](https://github.com/AkshantVats/distributed-flagd)
+- `5h ago` created branch in [AkshantVats/lora-trainer](https://github.com/AkshantVats/lora-trainer)
 <!-- RECENT_ACTIVITY:END -->
 
 ---

@@ -99,30 +99,30 @@ The umbrella repo for the five-product control plane. Start here to see how Lens
 <!-- LIVE_REPO_PULSE:START -->
 | Repo | Stars | Forks | Open issues | Last push | Latest commit |
 |---|---:|---:|---:|---:|---|
-| [infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming) | 0 | 0 | 5 | 1h ago | [`ba436f5`](https://github.com/AkshantVats/infra-ai-streaming/commit/ba436f50d96a0610997af566b8866e3d6d1c25a5) docs: prompt-fingerprinter DESIGN.md — RouteIQ arc, third module (Day 70) (#126) |
+| [infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming) | 0 | 0 | 7 | 2h ago | [`ba436f5`](https://github.com/AkshantVats/infra-ai-streaming/commit/ba436f50d96a0610997af566b8866e3d6d1c25a5) docs: prompt-fingerprinter DESIGN.md — RouteIQ arc, third module (Day 70) (#126) |
 | [ebpf-llm-tracer](https://github.com/AkshantVats/ebpf-llm-tracer) | 0 | 0 | 0 | 8d ago | [`4d3ce13`](https://github.com/AkshantVats/ebpf-llm-tracer/commit/4d3ce137097ecc9115a5b45ce01062716af02d5d) test: coverage improvements and GitHub Actions CI (#10) |
-| [Profile](https://github.com/AkshantVats/Profile) | 1 | 0 | 1 | 1h ago | [`508f5b1`](https://github.com/AkshantVats/Profile/commit/508f5b160396f365d072e405874e4c4d1cb1f8de) sitemap+llms: Day 70 indexed |
+| [Profile](https://github.com/AkshantVats/Profile) | 1 | 0 | 1 | 2h ago | [`1764189`](https://github.com/AkshantVats/Profile/commit/1764189660311fda332132f16d388e0183fb36e8) sitemap+llms: Day 72 indexed |
 <!-- LIVE_REPO_PULSE:END -->
 
 ### Latest writing
 
 <!-- LATEST_BLOG_POSTS:START -->
+- [Day 72 — L1/L2 Stack Design](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-72-l1-l2-stack-design.html)
+- [Day 72 — Two-Tier Cache Metrics](https://akshantvats.github.io/Profile/blog/series/experience/day-72-two-tier-cache-metrics.html)
+- [Day 71 — Canonicalization Rules](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-71-canonicalization-rules.html)
+- [Day 71 — Normalization Is Contract Testing](https://akshantvats.github.io/Profile/blog/series/experience/day-71-normalization-is-contract-testing.html)
 - [Day 70 — Prompt Fingerprints](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-70-prompt-fingerprints.html)
-- [Day 70 — Exact Match Before Fuzzy](https://akshantvats.github.io/Profile/blog/series/experience/day-70-exact-match-before-fuzzy.html)
-- [Day 69 — Failure Policies for Budget Redis](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-69-failure-policies-for-budget-redis.html)
-- [Day 69 — Fail Closed vs Open — Pick and Document](https://akshantvats.github.io/Profile/blog/series/experience/day-69-fail-closed-vs-open-pick-and-document.html)
-- [Day 68 — Gateway Middleware Ordering](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-68-gateway-middleware-ordering.html)
 <!-- LATEST_BLOG_POSTS:END -->
 
 ### Recent public activity
 
 <!-- RECENT_ACTIVITY:START -->
-- `1h ago` pushed to [AkshantVats/infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming): pushed commits
-- `1h ago` created branch in [AkshantVats/Profile](https://github.com/AkshantVats/Profile)
-- `1h ago` pushed to [AkshantVats/Profile](https://github.com/AkshantVats/Profile): pushed commits
-- `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
-- `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
-- `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
+- `2h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
+- `2h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
+- `2h ago` pushed to [AkshantVats/Profile](https://github.com/AkshantVats/Profile): pushed commits
+- `2h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
+- `2h ago` pushed to [AkshantVats/Profile](https://github.com/AkshantVats/Profile): pushed commits
+- `2h ago` created branch in [AkshantVats/Profile](https://github.com/AkshantVats/Profile)
 <!-- RECENT_ACTIVITY:END -->
 
 ---

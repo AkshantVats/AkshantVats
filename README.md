@@ -99,9 +99,9 @@ The umbrella repo for the five-product control plane. Start here to see how Lens
 <!-- LIVE_REPO_PULSE:START -->
 | Repo | Stars | Forks | Open issues | Last push | Latest commit |
 |---|---:|---:|---:|---:|---|
-| [infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming) | 0 | 0 | 5 | 1h ago | [`12f7adf`](https://github.com/AkshantVats/infra-ai-streaming/commit/12f7adfd253b358e946448d53df430500bfdb24c) feat(prompt-fingerprinter): collision drill + TTL isolation for L1 cache (Day 73) (#129) |
+| [infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming) | 0 | 0 | 0 | 2h ago | [`06f1ea2`](https://github.com/AkshantVats/infra-ai-streaming/commit/06f1ea28820a80c1b39a764aec5214246d2d932e) chore(deps): bump actions/checkout to v7 (major) |
 | [ebpf-llm-tracer](https://github.com/AkshantVats/ebpf-llm-tracer) | 0 | 0 | 0 | 8d ago | [`4d3ce13`](https://github.com/AkshantVats/ebpf-llm-tracer/commit/4d3ce137097ecc9115a5b45ce01062716af02d5d) test: coverage improvements and GitHub Actions CI (#10) |
-| [Profile](https://github.com/AkshantVats/Profile) | 1 | 0 | 1 | 1h ago | [`c6e40b9`](https://github.com/AkshantVats/Profile/commit/c6e40b9221c1e0dbdae3cee9f9e6ff56ac04e303) sitemap+llms: Day 73 indexed |
+| [Profile](https://github.com/AkshantVats/Profile) | 1 | 0 | 0 | 4h ago | [`c6e40b9`](https://github.com/AkshantVats/Profile/commit/c6e40b9221c1e0dbdae3cee9f9e6ff56ac04e303) sitemap+llms: Day 73 indexed |
 <!-- LIVE_REPO_PULSE:END -->
 
 ### Latest writing
@@ -117,12 +117,12 @@ The umbrella repo for the five-product control plane. Start here to see how Lens
 ### Recent public activity
 
 <!-- RECENT_ACTIVITY:START -->
-- `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
-- `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
-- `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
-- `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
-- `5h ago` closed PR [pull request in AkshantVats/infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming)
-- `10h ago` closed PR [pull request in AkshantVats/infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming)
+- `2h ago` pushed to [AkshantVats/lensai-integration](https://github.com/AkshantVats/lensai-integration): pushed commits
+- `2h ago` pushed to [AkshantVats/infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming): pushed commits
+- `2h ago` merged PR [pull request in AkshantVats/lensai-integration](https://github.com/AkshantVats/lensai-integration)
+- `2h ago` pushed to [AkshantVats/lensai-integration](https://github.com/AkshantVats/lensai-integration): pushed commits
+- `2h ago` pushed to [AkshantVats/infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming): pushed commits
+- `2h ago` pushed to [AkshantVats/infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming): pushed commits
 <!-- RECENT_ACTIVITY:END -->
 
 ---

@@ -99,30 +99,30 @@ The umbrella repo for the five-product control plane. Start here to see how Lens
 <!-- LIVE_REPO_PULSE:START -->
 | Repo | Stars | Forks | Open issues | Last push | Latest commit |
 |---|---:|---:|---:|---:|---|
-| [infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming) | 0 | 0 | 0 | 5h ago | [`bd8e107`](https://github.com/AkshantVats/infra-ai-streaming/commit/bd8e107f58009727e896130db3ca4c82d0084883) feat(prompt-fingerprinter): OTel spans for cache tier decisions (Day 74) |
+| [infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming) | 0 | 0 | 1 | 1h ago | [`fe00cbb`](https://github.com/AkshantVats/infra-ai-streaming/commit/fe00cbbf5cdf695ac463b385785c277cab7d4206) feat(prompt-fingerprinter): hit-rate + latency benchmark for exact-match cache (Day 75) (#131) |
 | [ebpf-llm-tracer](https://github.com/AkshantVats/ebpf-llm-tracer) | 0 | 0 | 0 | 9d ago | [`4d3ce13`](https://github.com/AkshantVats/ebpf-llm-tracer/commit/4d3ce137097ecc9115a5b45ce01062716af02d5d) test: coverage improvements and GitHub Actions CI (#10) |
-| [Profile](https://github.com/AkshantVats/Profile) | 1 | 0 | 0 | 5h ago | [`a62eb4c`](https://github.com/AkshantVats/Profile/commit/a62eb4c10d1f69026fba776f79471ad10cc1b6df) sitemap+llms: Day 74 indexed |
+| [Profile](https://github.com/AkshantVats/Profile) | 1 | 0 | 0 | 2h ago | [`85be2b5`](https://github.com/AkshantVats/Profile/commit/85be2b5595a8cda1fb3b7f07c79a1f1be1873b40) sitemap+llms: Day 75 indexed |
 <!-- LIVE_REPO_PULSE:END -->
 
 ### Latest writing
 
 <!-- LATEST_BLOG_POSTS:START -->
+- [Day 75 — Prompt Fingerprinting — Canonical Forms Before Hashing](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-75-canonical-forms-before-hashing.html)
+- [Day 75 — Wayfair's Redis Lua Token Bucket at 250k SKU Scale](https://akshantvats.github.io/Profile/blog/series/experience/day-75-wayfair-redis-lua-token-bucket.html)
 - [Day 74 — Quality Scorer Preview](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-74-quality-scorer-preview.html)
 - [Day 74 — OTel for Cache Tiers](https://akshantvats.github.io/Profile/blog/series/experience/day-74-otel-for-cache-tiers.html)
 - [Day 73 — Collision Handling](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-73-collision-handling.html)
-- [Day 73 — Hash Collisions Happen](https://akshantvats.github.io/Profile/blog/series/experience/day-73-hash-collisions-happen.html)
-- [Day 72 — L1/L2 Stack Design](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-72-l1-l2-stack-design.html)
 <!-- LATEST_BLOG_POSTS:END -->
 
 ### Recent public activity
 
 <!-- RECENT_ACTIVITY:START -->
-- `5h ago` created branch in [AkshantVats/fallback-chain](https://github.com/AkshantVats/fallback-chain)
-- `5h ago` created branch in [AkshantVats/eval-harness](https://github.com/AkshantVats/eval-harness)
-- `5h ago` created branch in [AkshantVats/alert-rule-engine](https://github.com/AkshantVats/alert-rule-engine)
-- `5h ago` created branch in [AkshantVats/drift-detector](https://github.com/AkshantVats/drift-detector)
-- `5h ago` created branch in [AkshantVats/distributed-flagd](https://github.com/AkshantVats/distributed-flagd)
-- `5h ago` created branch in [AkshantVats/lora-trainer](https://github.com/AkshantVats/lora-trainer)
+- `1h ago` pushed to [AkshantVats/infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming): pushed commits
+- `2h ago` created branch in [AkshantVats/Profile](https://github.com/AkshantVats/Profile)
+- `2h ago` created branch in [AkshantVats/Profile](https://github.com/AkshantVats/Profile)
+- `2h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
+- `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
+- `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
 <!-- RECENT_ACTIVITY:END -->
 
 ---

@@ -99,30 +99,30 @@ The umbrella repo for the five-product control plane. Start here to see how Lens
 <!-- LIVE_REPO_PULSE:START -->
 | Repo | Stars | Forks | Open issues | Last push | Latest commit |
 |---|---:|---:|---:|---:|---|
-| [infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming) | 0 | 0 | 7 | 2h ago | [`ba436f5`](https://github.com/AkshantVats/infra-ai-streaming/commit/ba436f50d96a0610997af566b8866e3d6d1c25a5) docs: prompt-fingerprinter DESIGN.md — RouteIQ arc, third module (Day 70) (#126) |
+| [infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming) | 0 | 0 | 5 | 1h ago | [`12f7adf`](https://github.com/AkshantVats/infra-ai-streaming/commit/12f7adfd253b358e946448d53df430500bfdb24c) feat(prompt-fingerprinter): collision drill + TTL isolation for L1 cache (Day 73) (#129) |
 | [ebpf-llm-tracer](https://github.com/AkshantVats/ebpf-llm-tracer) | 0 | 0 | 0 | 8d ago | [`4d3ce13`](https://github.com/AkshantVats/ebpf-llm-tracer/commit/4d3ce137097ecc9115a5b45ce01062716af02d5d) test: coverage improvements and GitHub Actions CI (#10) |
-| [Profile](https://github.com/AkshantVats/Profile) | 1 | 0 | 1 | 2h ago | [`1764189`](https://github.com/AkshantVats/Profile/commit/1764189660311fda332132f16d388e0183fb36e8) sitemap+llms: Day 72 indexed |
+| [Profile](https://github.com/AkshantVats/Profile) | 1 | 0 | 1 | 1h ago | [`c6e40b9`](https://github.com/AkshantVats/Profile/commit/c6e40b9221c1e0dbdae3cee9f9e6ff56ac04e303) sitemap+llms: Day 73 indexed |
 <!-- LIVE_REPO_PULSE:END -->
 
 ### Latest writing
 
 <!-- LATEST_BLOG_POSTS:START -->
+- [Day 73 — Collision Handling](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-73-collision-handling.html)
+- [Day 73 — Hash Collisions Happen](https://akshantvats.github.io/Profile/blog/series/experience/day-73-hash-collisions-happen.html)
 - [Day 72 — L1/L2 Stack Design](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-72-l1-l2-stack-design.html)
 - [Day 72 — Two-Tier Cache Metrics](https://akshantvats.github.io/Profile/blog/series/experience/day-72-two-tier-cache-metrics.html)
 - [Day 71 — Canonicalization Rules](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-71-canonicalization-rules.html)
-- [Day 71 — Normalization Is Contract Testing](https://akshantvats.github.io/Profile/blog/series/experience/day-71-normalization-is-contract-testing.html)
-- [Day 70 — Prompt Fingerprints](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-70-prompt-fingerprints.html)
 <!-- LATEST_BLOG_POSTS:END -->
 
 ### Recent public activity
 
 <!-- RECENT_ACTIVITY:START -->
-- `2h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
-- `2h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
-- `2h ago` pushed to [AkshantVats/Profile](https://github.com/AkshantVats/Profile): pushed commits
-- `2h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
-- `2h ago` pushed to [AkshantVats/Profile](https://github.com/AkshantVats/Profile): pushed commits
-- `2h ago` created branch in [AkshantVats/Profile](https://github.com/AkshantVats/Profile)
+- `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
+- `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
+- `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
+- `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
+- `5h ago` closed PR [pull request in AkshantVats/infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming)
+- `10h ago` closed PR [pull request in AkshantVats/infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming)
 <!-- RECENT_ACTIVITY:END -->
 
 ---

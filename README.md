@@ -99,30 +99,30 @@ The umbrella repo for the five-product control plane. Start here to see how Lens
 <!-- LIVE_REPO_PULSE:START -->
 | Repo | Stars | Forks | Open issues | Last push | Latest commit |
 |---|---:|---:|---:|---:|---|
-| [infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming) | 0 | 0 | 3 | 4h ago | [`fe00cbb`](https://github.com/AkshantVats/infra-ai-streaming/commit/fe00cbbf5cdf695ac463b385785c277cab7d4206) feat(prompt-fingerprinter): hit-rate + latency benchmark for exact-match cache (Day 75) (#131) |
-| [ebpf-llm-tracer](https://github.com/AkshantVats/ebpf-llm-tracer) | 0 | 0 | 0 | 9d ago | [`4d3ce13`](https://github.com/AkshantVats/ebpf-llm-tracer/commit/4d3ce137097ecc9115a5b45ce01062716af02d5d) test: coverage improvements and GitHub Actions CI (#10) |
-| [Profile](https://github.com/AkshantVats/Profile) | 1 | 0 | 0 | 4h ago | [`622035e`](https://github.com/AkshantVats/Profile/commit/622035ebd42b5f6d60f12dae08e3a6eb9550e6fa) sitemap+llms: Day 77 indexed |
+| [infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming) | 0 | 0 | 5 | 1h ago | [`fe00cbb`](https://github.com/AkshantVats/infra-ai-streaming/commit/fe00cbbf5cdf695ac463b385785c277cab7d4206) feat(prompt-fingerprinter): hit-rate + latency benchmark for exact-match cache (Day 75) (#131) |
+| [ebpf-llm-tracer](https://github.com/AkshantVats/ebpf-llm-tracer) | 0 | 0 | 0 | 10d ago | [`4d3ce13`](https://github.com/AkshantVats/ebpf-llm-tracer/commit/4d3ce137097ecc9115a5b45ce01062716af02d5d) test: coverage improvements and GitHub Actions CI (#10) |
+| [Profile](https://github.com/AkshantVats/Profile) | 1 | 0 | 0 | 1h ago | [`ad7e3fa`](https://github.com/AkshantVats/Profile/commit/ad7e3faa3b9c3036187f7bacb3e543e0c1732ea8) sitemap+llms: Day 79 indexed |
 <!-- LIVE_REPO_PULSE:END -->
 
 ### Latest writing
 
 <!-- LATEST_BLOG_POSTS:START -->
+- [Day 79 — Score Normalization — Why 0–1 Beats Raw Likert](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-79-score-normalization-0-1-vs-likert.html)
+- [Day 79 — Walmart Stream Analytics Dropped Messages — Switching to Kafka](https://akshantvats.github.io/Profile/blog/series/experience/day-79-stream-analytics-to-kafka.html)
+- [Day 78 — Async Evaluation Pipelines — Throughput Over Latency](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-78-async-evaluation-pipelines-throughput-over-latency.html)
+- [Day 78 — Delivery Hero Async Pipelines — Why We Decoupled SQS from OSRM](https://akshantvats.github.io/Profile/blog/series/experience/day-78-decoupling-sqs-from-osrm.html)
 - [Day 77 — LLM-as-Judge — Rubrics as Structured Data](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-77-judge-rubrics-structured-data.html)
-- [Day 77 — Agoda P99 Cannot Be Averaged Across Tenants](https://akshantvats.github.io/Profile/blog/series/experience/day-77-p99-per-tenant-slos.html)
-- [Day 76 — Exact-Match vs Semantic Cache — Two-Tier Memory Hierarchy](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-76-two-tier-cache-hierarchy.html)
-- [Day 76 — Supplier API Circuit Breakers — Half-Open State in Production](https://akshantvats.github.io/Profile/blog/series/experience/day-76-circuit-breaker-half-open-state.html)
-- [Day 75 — Prompt Fingerprinting — Canonical Forms Before Hashing](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-75-canonical-forms-before-hashing.html)
 <!-- LATEST_BLOG_POSTS:END -->
 
 ### Recent public activity
 
 <!-- RECENT_ACTIVITY:START -->
-- `4h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
-- `4h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
-- `4h ago` pushed to [AkshantVats/Profile](https://github.com/AkshantVats/Profile): pushed commits
-- `4h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
-- `4h ago` pushed to [AkshantVats/Profile](https://github.com/AkshantVats/Profile): pushed commits
-- `4h ago` created branch in [AkshantVats/Profile](https://github.com/AkshantVats/Profile)
+- `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
+- `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
+- `1h ago` pushed to [AkshantVats/Profile](https://github.com/AkshantVats/Profile): pushed commits
+- `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
+- `1h ago` pushed to [AkshantVats/Profile](https://github.com/AkshantVats/Profile): pushed commits
+- `1h ago` created branch in [AkshantVats/Profile](https://github.com/AkshantVats/Profile)
 <!-- RECENT_ACTIVITY:END -->
 
 ---

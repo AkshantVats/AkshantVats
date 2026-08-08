@@ -99,30 +99,30 @@ The umbrella repo for the five-product control plane. Start here to see how Lens
 <!-- LIVE_REPO_PULSE:START -->
 | Repo | Stars | Forks | Open issues | Last push | Latest commit |
 |---|---:|---:|---:|---:|---|
-| [infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming) | 0 | 0 | 2 | 4h ago | [`fe00cbb`](https://github.com/AkshantVats/infra-ai-streaming/commit/fe00cbbf5cdf695ac463b385785c277cab7d4206) feat(prompt-fingerprinter): hit-rate + latency benchmark for exact-match cache (Day 75) (#131) |
+| [infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming) | 0 | 0 | 3 | 4h ago | [`fe00cbb`](https://github.com/AkshantVats/infra-ai-streaming/commit/fe00cbbf5cdf695ac463b385785c277cab7d4206) feat(prompt-fingerprinter): hit-rate + latency benchmark for exact-match cache (Day 75) (#131) |
 | [ebpf-llm-tracer](https://github.com/AkshantVats/ebpf-llm-tracer) | 0 | 0 | 0 | 9d ago | [`4d3ce13`](https://github.com/AkshantVats/ebpf-llm-tracer/commit/4d3ce137097ecc9115a5b45ce01062716af02d5d) test: coverage improvements and GitHub Actions CI (#10) |
-| [Profile](https://github.com/AkshantVats/Profile) | 1 | 0 | 0 | 4h ago | [`5990157`](https://github.com/AkshantVats/Profile/commit/59901575c72c94ae04dd1262e14815b35e66880d) sitemap+llms: Day 76 indexed |
+| [Profile](https://github.com/AkshantVats/Profile) | 1 | 0 | 0 | 4h ago | [`622035e`](https://github.com/AkshantVats/Profile/commit/622035ebd42b5f6d60f12dae08e3a6eb9550e6fa) sitemap+llms: Day 77 indexed |
 <!-- LIVE_REPO_PULSE:END -->
 
 ### Latest writing
 
 <!-- LATEST_BLOG_POSTS:START -->
+- [Day 77 — LLM-as-Judge — Rubrics as Structured Data](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-77-judge-rubrics-structured-data.html)
+- [Day 77 — Agoda P99 Cannot Be Averaged Across Tenants](https://akshantvats.github.io/Profile/blog/series/experience/day-77-p99-per-tenant-slos.html)
 - [Day 76 — Exact-Match vs Semantic Cache — Two-Tier Memory Hierarchy](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-76-two-tier-cache-hierarchy.html)
 - [Day 76 — Supplier API Circuit Breakers — Half-Open State in Production](https://akshantvats.github.io/Profile/blog/series/experience/day-76-circuit-breaker-half-open-state.html)
 - [Day 75 — Prompt Fingerprinting — Canonical Forms Before Hashing](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-75-canonical-forms-before-hashing.html)
-- [Day 75 — Wayfair's Redis Lua Token Bucket at 250k SKU Scale](https://akshantvats.github.io/Profile/blog/series/experience/day-75-wayfair-redis-lua-token-bucket.html)
-- [Day 74 — Quality Scorer Preview](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-74-quality-scorer-preview.html)
 <!-- LATEST_BLOG_POSTS:END -->
 
 ### Recent public activity
 
 <!-- RECENT_ACTIVITY:START -->
 - `4h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
+- `4h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
+- `4h ago` pushed to [AkshantVats/Profile](https://github.com/AkshantVats/Profile): pushed commits
+- `4h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
+- `4h ago` pushed to [AkshantVats/Profile](https://github.com/AkshantVats/Profile): pushed commits
 - `4h ago` created branch in [AkshantVats/Profile](https://github.com/AkshantVats/Profile)
-- `4h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
-- `4h ago` pushed to [AkshantVats/Profile](https://github.com/AkshantVats/Profile): pushed commits
-- `4h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
-- `4h ago` pushed to [AkshantVats/Profile](https://github.com/AkshantVats/Profile): pushed commits
 <!-- RECENT_ACTIVITY:END -->
 
 ---

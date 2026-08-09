@@ -99,19 +99,19 @@ The umbrella repo for the five-product control plane. Start here to see how Lens
 <!-- LIVE_REPO_PULSE:START -->
 | Repo | Stars | Forks | Open issues | Last push | Latest commit |
 |---|---:|---:|---:|---:|---|
-| [infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming) | 0 | 0 | 2 | 1h ago | [`8349289`](https://github.com/AkshantVats/infra-ai-streaming/commit/8349289ee7430972d3dec82dc3138efdb5f64cc5) docs: fallback-chain DESIGN.md — RouteIQ arc, fifth module (Day 81) (#144) |
+| [infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming) | 0 | 0 | 3 | 1h ago | [`0384640`](https://github.com/AkshantVats/infra-ai-streaming/commit/0384640142cd780894fb4220a6a1a83fbf14f70e) feat(fallback-chain): chain executor, cascade timeouts, fallback_reason (Day 82) (#145) |
 | [ebpf-llm-tracer](https://github.com/AkshantVats/ebpf-llm-tracer) | 0 | 0 | 0 | 11d ago | [`4d3ce13`](https://github.com/AkshantVats/ebpf-llm-tracer/commit/4d3ce137097ecc9115a5b45ce01062716af02d5d) test: coverage improvements and GitHub Actions CI (#10) |
-| [Profile](https://github.com/AkshantVats/Profile) | 1 | 0 | 0 | 1h ago | [`ffc4450`](https://github.com/AkshantVats/Profile/commit/ffc4450e3516ebe40da2ba5d8160b8b85c5a6333) sitemap+llms: Day 82 indexed |
+| [Profile](https://github.com/AkshantVats/Profile) | 1 | 0 | 0 | 1h ago | [`d875ffc`](https://github.com/AkshantVats/Profile/commit/d875ffc454a0b0b53e40015373f13b98b5cbc05a) sitemap+llms: Day 83 indexed (#67) |
 <!-- LIVE_REPO_PULSE:END -->
 
 ### Latest writing
 
 <!-- LATEST_BLOG_POSTS:START -->
+- [Day 83 — Streaming Token Delivery — Backpressure Basics](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-83-streaming-backpressure-buffer-size.html)
+- [Day 83 — Agoda Cross-Tier Read Latency — Snappy Hot, Zstd Cold](https://akshantvats.github.io/Profile/blog/series/experience/day-83-cold-tier-compression-snappy-to-zstd.html)
 - [Day 82 — Measuring Proxy Overhead — p99, Not Mean](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-82-measuring-proxy-overhead-p99-not-mean.html)
 - [Day 82 — Delivery Hero OSRM Pool Saturation — PDBs vs. the Lunch Rush](https://akshantvats.github.io/Profile/blog/series/experience/day-82-osrm-pool-saturation-pdb-tradeoffs.html)
 - [Day 81 — Fallback Chains — Graceful Degradation in Inference](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-81-fallback-chains-graceful-degradation.html)
-- [Day 81 — Wayfair Sub-Second SKU Propagation — Event Ordering](https://akshantvats.github.io/Profile/blog/series/experience/day-81-sub-second-sku-propagation-event-ordering.html)
-- [Day 80 — Multi-Objective Routing — Scalarization and Weights](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-80-multi-objective-routing-scalarization.html)
 <!-- LATEST_BLOG_POSTS:END -->
 
 ### Recent public activity
@@ -119,10 +119,10 @@ The umbrella repo for the five-product control plane. Start here to see how Lens
 <!-- RECENT_ACTIVITY:START -->
 - `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
 - `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
-- `1h ago` pushed to [AkshantVats/Profile](https://github.com/AkshantVats/Profile): pushed commits
 - `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
-- `1h ago` pushed to [AkshantVats/Profile](https://github.com/AkshantVats/Profile): pushed commits
-- `1h ago` created branch in [AkshantVats/Profile](https://github.com/AkshantVats/Profile)
+- `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
+- `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
+- `1h ago` opened PR [pull request in AkshantVats/infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming)
 <!-- RECENT_ACTIVITY:END -->
 
 ---

@@ -99,30 +99,30 @@ The umbrella repo for the five-product control plane. Start here to see how Lens
 <!-- LIVE_REPO_PULSE:START -->
 | Repo | Stars | Forks | Open issues | Last push | Latest commit |
 |---|---:|---:|---:|---:|---|
-| [infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming) | 0 | 0 | 5 | 5h ago | [`f3452d0`](https://github.com/AkshantVats/infra-ai-streaming/commit/f3452d0ff84a32a8f7736313ba50c8a3ed97f44d) feat(fallback-chain): routing_decision Kafka events + LensAI ClickHouse consumer (Day 85) (#155) |
+| [infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming) | 0 | 0 | 3 | 1h ago | [`3b746c9`](https://github.com/AkshantVats/infra-ai-streaming/commit/3b746c9f7d8061aac4c18ec75ef9cf48c9ae206f) refactor: OSS polish days 87-90 (#161) |
 | [ebpf-llm-tracer](https://github.com/AkshantVats/ebpf-llm-tracer) | 0 | 0 | 0 | 13d ago | [`4d3ce13`](https://github.com/AkshantVats/ebpf-llm-tracer/commit/4d3ce137097ecc9115a5b45ce01062716af02d5d) test: coverage improvements and GitHub Actions CI (#10) |
-| [Profile](https://github.com/AkshantVats/Profile) | 1 | 0 | 0 | 5h ago | [`27fde7c`](https://github.com/AkshantVats/Profile/commit/27fde7ca4a8e4790e5ca944226b9616d1dce0102) Day 89: Experience + AI Learning posts, sitemap/llms indexed |
+| [Profile](https://github.com/AkshantVats/Profile) | 1 | 0 | 0 | 2h ago | [`011df1d`](https://github.com/AkshantVats/Profile/commit/011df1d19f5526b7b89ac6cc3f250a5bdab492aa) sitemap+llms: Day 90 indexed |
 <!-- LIVE_REPO_PULSE:END -->
 
 ### Latest writing
 
 <!-- LATEST_BLOG_POSTS:START -->
+- [Day 90 — Shadow Deployments for ML — Statistical Power](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-90-shadow-deployments-statistical-power.html)
+- [Day 90 — Netflix Shadow Traffic Talk — Applying to LLM Eval](https://akshantvats.github.io/Profile/blog/series/experience/day-90-netflix-shadow-traffic-llm-eval.html)
 - [Day 89 — Product Thinking — Routers as Control Planes](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-89-product-thinking-routers-control-planes.html)
 - [Day 89 — Five Years of Infra Interviews — What “Staff” Signals Look Like](https://akshantvats.github.io/Profile/blog/series/experience/day-89-five-years-infra-interviews-staff-signals.html)
 - [Day 88 — Launch Readiness — API Sandboxes and Rate Limits](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-88-launch-readiness-api-sandboxes-rate-limits.html)
-- [Day 88 — Launching WhiteFalcon Dashboards — Stakeholder Demo Prep](https://akshantvats.github.io/Profile/blog/series/experience/day-88-whitefalcon-dashboards-stakeholder-demo-prep.html)
-- [Day 87 — Integration Topology — Compose for Platform Demos](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-87-integration-topology-compose-platform-demos.html)
 <!-- LATEST_BLOG_POSTS:END -->
 
 ### Recent public activity
 
 <!-- RECENT_ACTIVITY:START -->
-- `5h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
-- `5h ago` pushed to [AkshantVats/Profile](https://github.com/AkshantVats/Profile): pushed commits
-- `5h ago` created branch in [AkshantVats/Profile](https://github.com/AkshantVats/Profile)
-- `5h ago` created branch in [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan)
-- `5h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
-- `5h ago` opened PR [pull request in AkshantVats/infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming)
+- `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
+- `1h ago` pushed to [AkshantVats/infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming): pushed commits
+- `1h ago` pushed to [AkshantVats/infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming): pushed commits
+- `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
+- `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
+- `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
 <!-- RECENT_ACTIVITY:END -->
 
 ---

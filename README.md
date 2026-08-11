@@ -99,30 +99,30 @@ The umbrella repo for the five-product control plane. Start here to see how Lens
 <!-- LIVE_REPO_PULSE:START -->
 | Repo | Stars | Forks | Open issues | Last push | Latest commit |
 |---|---:|---:|---:|---:|---|
-| [infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming) | 0 | 0 | 2 | 1h ago | [`f3452d0`](https://github.com/AkshantVats/infra-ai-streaming/commit/f3452d0ff84a32a8f7736313ba50c8a3ed97f44d) feat(fallback-chain): routing_decision Kafka events + LensAI ClickHouse consumer (Day 85) (#155) |
+| [infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming) | 0 | 0 | 3 | 4h ago | [`f3452d0`](https://github.com/AkshantVats/infra-ai-streaming/commit/f3452d0ff84a32a8f7736313ba50c8a3ed97f44d) feat(fallback-chain): routing_decision Kafka events + LensAI ClickHouse consumer (Day 85) (#155) |
 | [ebpf-llm-tracer](https://github.com/AkshantVats/ebpf-llm-tracer) | 0 | 0 | 0 | 12d ago | [`4d3ce13`](https://github.com/AkshantVats/ebpf-llm-tracer/commit/4d3ce137097ecc9115a5b45ce01062716af02d5d) test: coverage improvements and GitHub Actions CI (#10) |
-| [Profile](https://github.com/AkshantVats/Profile) | 1 | 0 | 0 | 2h ago | [`7208310`](https://github.com/AkshantVats/Profile/commit/7208310527c8882eeb4144ce195336c502c6f474) sitemap+llms: Day 86 indexed |
+| [Profile](https://github.com/AkshantVats/Profile) | 1 | 0 | 0 | 4h ago | [`3832653`](https://github.com/AkshantVats/Profile/commit/3832653a7101b21f35558ff355988212151aaf5b) sitemap+llms: Day 87 indexed |
 <!-- LIVE_REPO_PULSE:END -->
 
 ### Latest writing
 
 <!-- LATEST_BLOG_POSTS:START -->
+- [Day 87 — Integration Topology — Compose for Platform Demos](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-87-integration-topology-compose-platform-demos.html)
+- [Day 87 — OSS VictoriaMetrics PR — Reading Go Production Code](https://akshantvats.github.io/Profile/blog/series/experience/day-87-victoriametrics-pr-matching-error-style.html)
 - [Day 86 — Trace Context Propagation — W3C traceparent](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-86-trace-context-propagation-w3c-traceparent.html)
 - [Day 86 — Delivery Hero Distributed Tracing — Finding the Slow Span](https://akshantvats.github.io/Profile/blog/series/experience/day-86-distributed-tracing-finding-the-slow-span.html)
 - [Day 85 — Routing Decision Logs — Audit Trail Design](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-85-routing-decision-audit-trail.html)
-- [Day 85 — Agoda Kafka Ingestion Backpressure — Channel Depth 10k](https://akshantvats.github.io/Profile/blog/series/experience/day-85-kafka-ingestion-backpressure-channel-depth.html)
-- [Day 84 — Health Checks for Model Endpoints — Active Probes](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-84-active-health-probes-circuit-breaker.html)
 <!-- LATEST_BLOG_POSTS:END -->
 
 ### Recent public activity
 
 <!-- RECENT_ACTIVITY:START -->
-- `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
-- `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
-- `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
-- `1h ago` pushed to [AkshantVats/infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming): pushed commits
-- `1h ago` created branch in [AkshantVats/infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming)
-- `1h ago` pushed to [AkshantVats/infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming): pushed commits
+- `4h ago` pushed to [AkshantVats/Profile](https://github.com/AkshantVats/Profile): pushed commits
+- `4h ago` created branch in [AkshantVats/Profile](https://github.com/AkshantVats/Profile)
+- `4h ago` created branch in [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan)
+- `4h ago` created branch in [AkshantVats/infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming)
+- `4h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
+- `4h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
 <!-- RECENT_ACTIVITY:END -->
 
 ---

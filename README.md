@@ -99,30 +99,30 @@ The umbrella repo for the five-product control plane. Start here to see how Lens
 <!-- LIVE_REPO_PULSE:START -->
 | Repo | Stars | Forks | Open issues | Last push | Latest commit |
 |---|---:|---:|---:|---:|---|
-| [infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming) | 0 | 0 | 6 | 1h ago | [`3b746c9`](https://github.com/AkshantVats/infra-ai-streaming/commit/3b746c9f7d8061aac4c18ec75ef9cf48c9ae206f) refactor: OSS polish days 87-90 (#161) |
+| [infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming) | 0 | 0 | 7 | 2h ago | [`3b746c9`](https://github.com/AkshantVats/infra-ai-streaming/commit/3b746c9f7d8061aac4c18ec75ef9cf48c9ae206f) refactor: OSS polish days 87-90 (#161) |
 | [ebpf-llm-tracer](https://github.com/AkshantVats/ebpf-llm-tracer) | 0 | 0 | 0 | 14d ago | [`4d3ce13`](https://github.com/AkshantVats/ebpf-llm-tracer/commit/4d3ce137097ecc9115a5b45ce01062716af02d5d) test: coverage improvements and GitHub Actions CI (#10) |
-| [Profile](https://github.com/AkshantVats/Profile) | 1 | 0 | 0 | 1h ago | [`fc70a68`](https://github.com/AkshantVats/Profile/commit/fc70a68ff19c75d0ee33a4a927380d93d2c1deb9) sitemap+llms: Day 93 indexed (#71) |
+| [Profile](https://github.com/AkshantVats/Profile) | 1 | 0 | 0 | 2h ago | [`4076e68`](https://github.com/AkshantVats/Profile/commit/4076e683a1b3e3565059a25991a274ba1c38157c) sitemap+llms: Day 94 indexed |
 <!-- LIVE_REPO_PULSE:END -->
 
 ### Latest writing
 
 <!-- LATEST_BLOG_POSTS:START -->
+- [Day 94 — Latency SLO Verification — A/B Instrumentation](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-94-latency-slo-verification-ab-instrumentation.html)
+- [Day 94 — Wayfair Load Tests Before Cyber 5 — "We Have Headroom" Isn't Proof](https://akshantvats.github.io/Profile/blog/series/experience/day-94-wayfair-load-tests-before-cyber-5.html)
 - [Day 93 — Paired Observability — Prod vs Shadow Storage](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-93-paired-observability-prod-vs-shadow-storage.html)
 - [Day 93 — Agoda Exactly-Once Illusion — Idempotent Consumers](https://akshantvats.github.io/Profile/blog/series/experience/day-93-agoda-exactly-once-illusion-idempotent-consumers.html)
 - [Day 92 — Feature Flags Driving Experiments](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-92-feature-flags-driving-experiments.html)
-- [Day 92 — Walmart Feature Flags on Firmware Channels](https://akshantvats.github.io/Profile/blog/series/experience/day-92-walmart-feature-flags-firmware-channels.html)
-- [Day 91 — Fire-and-Forget Async — At-Most-Once vs Loss](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-91-fire-and-forget-async-at-most-once-vs-loss.html)
 <!-- LATEST_BLOG_POSTS:END -->
 
 ### Recent public activity
 
 <!-- RECENT_ACTIVITY:START -->
-- `1h ago` merged PR [pull request in AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan)
 - `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
-- `1h ago` opened PR [pull request in AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan)
-- `1h ago` created branch in [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan)
-- `1h ago` closed PR [pull request in AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan)
-- `1h ago` opened PR [pull request in AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan)
+- `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
+- `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
+- `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
+- `2h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
+- `2h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
 <!-- RECENT_ACTIVITY:END -->
 
 ---

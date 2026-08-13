@@ -99,19 +99,19 @@ The umbrella repo for the five-product control plane. Start here to see how Lens
 <!-- LIVE_REPO_PULSE:START -->
 | Repo | Stars | Forks | Open issues | Last push | Latest commit |
 |---|---:|---:|---:|---:|---|
-| [infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming) | 0 | 0 | 7 | 2h ago | [`3b746c9`](https://github.com/AkshantVats/infra-ai-streaming/commit/3b746c9f7d8061aac4c18ec75ef9cf48c9ae206f) refactor: OSS polish days 87-90 (#161) |
+| [infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming) | 0 | 0 | 10 | 1h ago | [`2d3203a`](https://github.com/AkshantVats/infra-ai-streaming/commit/2d3203a8a2a0f8e616a5f50d14883119f3d1effe) feat(shadow-traffic-router): mirroring middleware (Day 91) |
 | [ebpf-llm-tracer](https://github.com/AkshantVats/ebpf-llm-tracer) | 0 | 0 | 0 | 14d ago | [`4d3ce13`](https://github.com/AkshantVats/ebpf-llm-tracer/commit/4d3ce137097ecc9115a5b45ce01062716af02d5d) test: coverage improvements and GitHub Actions CI (#10) |
-| [Profile](https://github.com/AkshantVats/Profile) | 1 | 0 | 0 | 2h ago | [`4076e68`](https://github.com/AkshantVats/Profile/commit/4076e683a1b3e3565059a25991a274ba1c38157c) sitemap+llms: Day 94 indexed |
+| [Profile](https://github.com/AkshantVats/Profile) | 1 | 0 | 0 | 1h ago | [`6a045f0`](https://github.com/AkshantVats/Profile/commit/6a045f01141aa082ec2e9f4abd9fe20b74f61626) sitemap+llms: Day 96 indexed |
 <!-- LIVE_REPO_PULSE:END -->
 
 ### Latest writing
 
 <!-- LATEST_BLOG_POSTS:START -->
+- [Day 96 — Shadow Traffic — Ethics and Sampling Bias](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-96-shadow-traffic-ethics-and-sampling-bias.html)
+- [Day 96 — Leading PAS and Promotions — Two Teams, One Pricing Platform](https://akshantvats.github.io/Profile/blog/series/experience/day-96-leading-pas-promotions-two-teams-one-platform.html)
+- [Day 95 — Cold Storage for ML Artifacts — Tiering](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-95-cold-storage-for-ml-artifacts-tiering.html)
+- [Day 95 — ScheduledReader at TB Scale — BigQuery Slot Economics](https://akshantvats.github.io/Profile/blog/series/experience/day-95-scheduledreader-bigquery-slot-economics.html)
 - [Day 94 — Latency SLO Verification — A/B Instrumentation](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-94-latency-slo-verification-ab-instrumentation.html)
-- [Day 94 — Wayfair Load Tests Before Cyber 5 — "We Have Headroom" Isn't Proof](https://akshantvats.github.io/Profile/blog/series/experience/day-94-wayfair-load-tests-before-cyber-5.html)
-- [Day 93 — Paired Observability — Prod vs Shadow Storage](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-93-paired-observability-prod-vs-shadow-storage.html)
-- [Day 93 — Agoda Exactly-Once Illusion — Idempotent Consumers](https://akshantvats.github.io/Profile/blog/series/experience/day-93-agoda-exactly-once-illusion-idempotent-consumers.html)
-- [Day 92 — Feature Flags Driving Experiments](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-92-feature-flags-driving-experiments.html)
 <!-- LATEST_BLOG_POSTS:END -->
 
 ### Recent public activity
@@ -119,10 +119,10 @@ The umbrella repo for the five-product control plane. Start here to see how Lens
 <!-- RECENT_ACTIVITY:START -->
 - `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
 - `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
-- `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
-- `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
-- `2h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
-- `2h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
+- `1h ago` pushed to [AkshantVats/Profile](https://github.com/AkshantVats/Profile): pushed commits
+- `1h ago` pushed to [AkshantVats/Profile](https://github.com/AkshantVats/Profile): pushed commits
+- `1h ago` created branch in [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan)
+- `1h ago` opened PR [pull request in AkshantVats/infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming)
 <!-- RECENT_ACTIVITY:END -->
 
 ---

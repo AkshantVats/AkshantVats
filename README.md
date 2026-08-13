@@ -99,30 +99,30 @@ The umbrella repo for the five-product control plane. Start here to see how Lens
 <!-- LIVE_REPO_PULSE:START -->
 | Repo | Stars | Forks | Open issues | Last push | Latest commit |
 |---|---:|---:|---:|---:|---|
-| [infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming) | 0 | 0 | 9 | 1h ago | [`bd325db`](https://github.com/AkshantVats/infra-ai-streaming/commit/bd325dbc946bc348944c19c74ebb29f317d81597) feat(shadow-traffic-router): shadow-eval consumer skeleton (Day 93) (#164) |
+| [infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming) | 0 | 0 | 5 | 1h ago | [`b3fc719`](https://github.com/AkshantVats/infra-ai-streaming/commit/b3fc7194644a9d86954fe8b0974030a1bcec8ba9) refactor: OSS polish days 95-98 (#172) |
 | [ebpf-llm-tracer](https://github.com/AkshantVats/ebpf-llm-tracer) | 0 | 0 | 0 | 15d ago | [`4d3ce13`](https://github.com/AkshantVats/ebpf-llm-tracer/commit/4d3ce137097ecc9115a5b45ce01062716af02d5d) test: coverage improvements and GitHub Actions CI (#10) |
-| [Profile](https://github.com/AkshantVats/Profile) | 1 | 0 | 0 | 1h ago | [`e7566e8`](https://github.com/AkshantVats/Profile/commit/e7566e8daeb6c57bd960c0dbde04a9ff8d6b6aab) sitemap+llms: Day 97 indexed |
+| [Profile](https://github.com/AkshantVats/Profile) | 1 | 0 | 0 | 2h ago | [`18c81a2`](https://github.com/AkshantVats/Profile/commit/18c81a201d308107151261e3b88950331334f389) Retrofix: Experience Day 98 links to now-live AI Learning companion post |
 <!-- LIVE_REPO_PULSE:END -->
 
 ### Latest writing
 
 <!-- LATEST_BLOG_POSTS:START -->
+- [Day 98 — Judge Model Selection — Cost vs Capability](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-98-judge-model-selection-cost-vs-capability.html)
+- [Day 98 — Walmart Rubric-Less Alerts — Why Thresholds Failed IoT](https://akshantvats.github.io/Profile/blog/series/experience/day-98-walmart-rubric-less-alerts-why-thresholds-failed-iot.html)
 - [Day 97 — Rubric Engineering — Criteria Weighting](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-97-rubric-engineering-criteria-weighting.html)
 - [Day 97 — The Cardinality Guardrail — a Cap, Not a Convention](https://akshantvats.github.io/Profile/blog/series/experience/day-97-cardinality-guardrail-cap-not-convention.html)
 - [Day 96 — Shadow Traffic — Ethics and Sampling Bias](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-96-shadow-traffic-ethics-and-sampling-bias.html)
-- [Day 96 — Leading PAS and Promotions — Two Teams, One Pricing Platform](https://akshantvats.github.io/Profile/blog/series/experience/day-96-leading-pas-promotions-two-teams-one-platform.html)
-- [Day 95 — Cold Storage for ML Artifacts — Tiering](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-95-cold-storage-for-ml-artifacts-tiering.html)
 <!-- LATEST_BLOG_POSTS:END -->
 
 ### Recent public activity
 
 <!-- RECENT_ACTIVITY:START -->
 - `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
-- `1h ago` created branch in [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan)
+- `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
 - `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
 - `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
 - `1h ago` pushed to [AkshantVats/infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming): pushed commits
-- `1h ago` merged PR [pull request in AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan)
+- `1h ago` merged PR [pull request in AkshantVats/infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming)
 <!-- RECENT_ACTIVITY:END -->
 
 ---

@@ -99,30 +99,30 @@ The umbrella repo for the five-product control plane. Start here to see how Lens
 <!-- LIVE_REPO_PULSE:START -->
 | Repo | Stars | Forks | Open issues | Last push | Latest commit |
 |---|---:|---:|---:|---:|---|
-| [infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming) | 0 | 0 | 9 | 1h ago | [`bcabf22`](https://github.com/AkshantVats/infra-ai-streaming/commit/bcabf22b6e431873a52f5e99e198a13f290547e7) feat(shadow-traffic-router): shadow_percent per-tenant flagd sampling (Day 92) (#163) |
-| [ebpf-llm-tracer](https://github.com/AkshantVats/ebpf-llm-tracer) | 0 | 0 | 0 | 14d ago | [`4d3ce13`](https://github.com/AkshantVats/ebpf-llm-tracer/commit/4d3ce137097ecc9115a5b45ce01062716af02d5d) test: coverage improvements and GitHub Actions CI (#10) |
-| [Profile](https://github.com/AkshantVats/Profile) | 1 | 0 | 0 | 4h ago | [`6a045f0`](https://github.com/AkshantVats/Profile/commit/6a045f01141aa082ec2e9f4abd9fe20b74f61626) sitemap+llms: Day 96 indexed |
+| [infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming) | 0 | 0 | 9 | 1h ago | [`bd325db`](https://github.com/AkshantVats/infra-ai-streaming/commit/bd325dbc946bc348944c19c74ebb29f317d81597) feat(shadow-traffic-router): shadow-eval consumer skeleton (Day 93) (#164) |
+| [ebpf-llm-tracer](https://github.com/AkshantVats/ebpf-llm-tracer) | 0 | 0 | 0 | 15d ago | [`4d3ce13`](https://github.com/AkshantVats/ebpf-llm-tracer/commit/4d3ce137097ecc9115a5b45ce01062716af02d5d) test: coverage improvements and GitHub Actions CI (#10) |
+| [Profile](https://github.com/AkshantVats/Profile) | 1 | 0 | 0 | 1h ago | [`e7566e8`](https://github.com/AkshantVats/Profile/commit/e7566e8daeb6c57bd960c0dbde04a9ff8d6b6aab) sitemap+llms: Day 97 indexed |
 <!-- LIVE_REPO_PULSE:END -->
 
 ### Latest writing
 
 <!-- LATEST_BLOG_POSTS:START -->
+- [Day 97 — Rubric Engineering — Criteria Weighting](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-97-rubric-engineering-criteria-weighting.html)
+- [Day 97 — The Cardinality Guardrail — a Cap, Not a Convention](https://akshantvats.github.io/Profile/blog/series/experience/day-97-cardinality-guardrail-cap-not-convention.html)
 - [Day 96 — Shadow Traffic — Ethics and Sampling Bias](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-96-shadow-traffic-ethics-and-sampling-bias.html)
 - [Day 96 — Leading PAS and Promotions — Two Teams, One Pricing Platform](https://akshantvats.github.io/Profile/blog/series/experience/day-96-leading-pas-promotions-two-teams-one-platform.html)
 - [Day 95 — Cold Storage for ML Artifacts — Tiering](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-95-cold-storage-for-ml-artifacts-tiering.html)
-- [Day 95 — ScheduledReader at TB Scale — BigQuery Slot Economics](https://akshantvats.github.io/Profile/blog/series/experience/day-95-scheduledreader-bigquery-slot-economics.html)
-- [Day 94 — Latency SLO Verification — A/B Instrumentation](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-94-latency-slo-verification-ab-instrumentation.html)
 <!-- LATEST_BLOG_POSTS:END -->
 
 ### Recent public activity
 
 <!-- RECENT_ACTIVITY:START -->
 - `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
+- `1h ago` created branch in [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan)
 - `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
-- `1h ago` merged PR [pull request in AkshantVats/infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming)
+- `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
 - `1h ago` pushed to [AkshantVats/infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming): pushed commits
-- `1h ago` pushed to [AkshantVats/infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming): pushed commits
-- `4h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
+- `1h ago` merged PR [pull request in AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan)
 <!-- RECENT_ACTIVITY:END -->
 
 ---

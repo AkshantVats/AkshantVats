@@ -99,30 +99,30 @@ The umbrella repo for the five-product control plane. Start here to see how Lens
 <!-- LIVE_REPO_PULSE:START -->
 | Repo | Stars | Forks | Open issues | Last push | Latest commit |
 |---|---:|---:|---:|---:|---|
-| [infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming) | 0 | 0 | 7 | 4h ago | [`b3fc719`](https://github.com/AkshantVats/infra-ai-streaming/commit/b3fc7194644a9d86954fe8b0974030a1bcec8ba9) refactor: OSS polish days 95-98 (#172) |
-| [ebpf-llm-tracer](https://github.com/AkshantVats/ebpf-llm-tracer) | 0 | 0 | 0 | 15d ago | [`4d3ce13`](https://github.com/AkshantVats/ebpf-llm-tracer/commit/4d3ce137097ecc9115a5b45ce01062716af02d5d) test: coverage improvements and GitHub Actions CI (#10) |
-| [Profile](https://github.com/AkshantVats/Profile) | 1 | 0 | 0 | 4h ago | [`6a52374`](https://github.com/AkshantVats/Profile/commit/6a52374aea4d9735429a2186ab2eae5d5cf67f9e) sitemap+llms: Day 100 indexed |
+| [infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming) | 0 | 0 | 9 | 1h ago | [`b3fc719`](https://github.com/AkshantVats/infra-ai-streaming/commit/b3fc7194644a9d86954fe8b0974030a1bcec8ba9) refactor: OSS polish days 95-98 (#172) |
+| [ebpf-llm-tracer](https://github.com/AkshantVats/ebpf-llm-tracer) | 0 | 0 | 0 | 16d ago | [`4d3ce13`](https://github.com/AkshantVats/ebpf-llm-tracer/commit/4d3ce137097ecc9115a5b45ce01062716af02d5d) test: coverage improvements and GitHub Actions CI (#10) |
+| [Profile](https://github.com/AkshantVats/Profile) | 1 | 0 | 0 | 1h ago | [`fdb80ae`](https://github.com/AkshantVats/Profile/commit/fdb80ae9379ee408141a28faf96054e7ed58900e) sitemap+llms: Day 102 indexed |
 <!-- LIVE_REPO_PULSE:END -->
 
 ### Latest writing
 
 <!-- LATEST_BLOG_POSTS:START -->
+- [Day 102 — Quality Time Series — Dashboard Design](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-102-quality-time-series-dashboard-design.html)
+- [Day 102 — Executive Dashboards — One Chart, One Question](https://akshantvats.github.io/Profile/blog/series/experience/day-102-executive-dashboards-one-chart-one-question.html)
+- [Day 101 — Hypothesis Testing for Model Drops](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-101-hypothesis-testing-for-model-drops.html)
+- [Day 101 — Statistics for Infra Engineers — A/B at Delivery Hero](https://akshantvats.github.io/Profile/blog/series/experience/day-101-statistics-for-infra-engineers-ab-at-delivery-hero.html)
 - [Day 100 — Rolling Baselines — Non-Stationary Series](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-100-rolling-baselines-non-stationary-series.html)
-- [Day 100 — Agoda Cold Start After Deploy — Baseline Reset](https://akshantvats.github.io/Profile/blog/series/experience/day-100-agoda-cold-start-after-deploy-baseline-reset.html)
-- [Day 99 — LLM Eval Bias — Position and Length Effects](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-99-llm-eval-bias-position-and-length-effects.html)
-- [Day 99 — Using GPT to Grade GPT — BrowserStack Skepticism](https://akshantvats.github.io/Profile/blog/series/experience/day-99-using-gpt-to-grade-gpt-browserstack-skepticism.html)
-- [Day 98 — Judge Model Selection — Cost vs Capability](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-98-judge-model-selection-cost-vs-capability.html)
 <!-- LATEST_BLOG_POSTS:END -->
 
 ### Recent public activity
 
 <!-- RECENT_ACTIVITY:START -->
-- `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
+- `1h ago` pushed to [AkshantVats/Profile](https://github.com/AkshantVats/Profile): pushed commits
 - `1h ago` created branch in [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan)
-- `4h ago` created branch in [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan)
-- `4h ago` pushed to [AkshantVats/Profile](https://github.com/AkshantVats/Profile): pushed commits
-- `4h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
-- `4h ago` opened PR [pull request in AkshantVats/infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming)
+- `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
+- `1h ago` created branch in [AkshantVats/infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming)
+- `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
+- `1h ago` opened PR [pull request in AkshantVats/infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming)
 <!-- RECENT_ACTIVITY:END -->
 
 ---

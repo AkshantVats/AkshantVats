@@ -99,30 +99,30 @@ The umbrella repo for the five-product control plane. Start here to see how Lens
 <!-- LIVE_REPO_PULSE:START -->
 | Repo | Stars | Forks | Open issues | Last push | Latest commit |
 |---|---:|---:|---:|---:|---|
-| [infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming) | 0 | 0 | 6 | 4h ago | [`b3fc719`](https://github.com/AkshantVats/infra-ai-streaming/commit/b3fc7194644a9d86954fe8b0974030a1bcec8ba9) refactor: OSS polish days 95-98 (#172) |
+| [infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming) | 0 | 0 | 7 | 4h ago | [`b3fc719`](https://github.com/AkshantVats/infra-ai-streaming/commit/b3fc7194644a9d86954fe8b0974030a1bcec8ba9) refactor: OSS polish days 95-98 (#172) |
 | [ebpf-llm-tracer](https://github.com/AkshantVats/ebpf-llm-tracer) | 0 | 0 | 0 | 15d ago | [`4d3ce13`](https://github.com/AkshantVats/ebpf-llm-tracer/commit/4d3ce137097ecc9115a5b45ce01062716af02d5d) test: coverage improvements and GitHub Actions CI (#10) |
-| [Profile](https://github.com/AkshantVats/Profile) | 1 | 0 | 0 | 4h ago | [`d3c228f`](https://github.com/AkshantVats/Profile/commit/d3c228fed2a75c46061ba8a17254647314d5dd47) sitemap+llms: Day 99 indexed |
+| [Profile](https://github.com/AkshantVats/Profile) | 1 | 0 | 0 | 4h ago | [`6a52374`](https://github.com/AkshantVats/Profile/commit/6a52374aea4d9735429a2186ab2eae5d5cf67f9e) sitemap+llms: Day 100 indexed |
 <!-- LIVE_REPO_PULSE:END -->
 
 ### Latest writing
 
 <!-- LATEST_BLOG_POSTS:START -->
+- [Day 100 — Rolling Baselines — Non-Stationary Series](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-100-rolling-baselines-non-stationary-series.html)
+- [Day 100 — Agoda Cold Start After Deploy — Baseline Reset](https://akshantvats.github.io/Profile/blog/series/experience/day-100-agoda-cold-start-after-deploy-baseline-reset.html)
 - [Day 99 — LLM Eval Bias — Position and Length Effects](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-99-llm-eval-bias-position-and-length-effects.html)
 - [Day 99 — Using GPT to Grade GPT — BrowserStack Skepticism](https://akshantvats.github.io/Profile/blog/series/experience/day-99-using-gpt-to-grade-gpt-browserstack-skepticism.html)
 - [Day 98 — Judge Model Selection — Cost vs Capability](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-98-judge-model-selection-cost-vs-capability.html)
-- [Day 98 — Walmart Rubric-Less Alerts — Why Thresholds Failed IoT](https://akshantvats.github.io/Profile/blog/series/experience/day-98-walmart-rubric-less-alerts-why-thresholds-failed-iot.html)
-- [Day 97 — Rubric Engineering — Criteria Weighting](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-97-rubric-engineering-criteria-weighting.html)
 <!-- LATEST_BLOG_POSTS:END -->
 
 ### Recent public activity
 
 <!-- RECENT_ACTIVITY:START -->
 - `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
-- `4h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
-- `4h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
+- `1h ago` created branch in [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan)
+- `4h ago` created branch in [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan)
 - `4h ago` pushed to [AkshantVats/Profile](https://github.com/AkshantVats/Profile): pushed commits
 - `4h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
-- `4h ago` pushed to [AkshantVats/Profile](https://github.com/AkshantVats/Profile): pushed commits
+- `4h ago` opened PR [pull request in AkshantVats/infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming)
 <!-- RECENT_ACTIVITY:END -->
 
 ---

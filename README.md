@@ -99,30 +99,30 @@ The umbrella repo for the five-product control plane. Start here to see how Lens
 <!-- LIVE_REPO_PULSE:START -->
 | Repo | Stars | Forks | Open issues | Last push | Latest commit |
 |---|---:|---:|---:|---:|---|
-| [infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming) | 0 | 0 | 5 | 1h ago | [`dae8623`](https://github.com/AkshantVats/infra-ai-streaming/commit/dae862321c77d63b8d9e96ef72c9cdda5b803ae2) feat(llm-judge-eval): judge cost dashboard for spend vs drift value (Day 103) (#177) |
+| [infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming) | 0 | 0 | 6 | 4h ago | [`dae8623`](https://github.com/AkshantVats/infra-ai-streaming/commit/dae862321c77d63b8d9e96ef72c9cdda5b803ae2) feat(llm-judge-eval): judge cost dashboard for spend vs drift value (Day 103) (#177) |
 | [ebpf-llm-tracer](https://github.com/AkshantVats/ebpf-llm-tracer) | 0 | 0 | 0 | 16d ago | [`4d3ce13`](https://github.com/AkshantVats/ebpf-llm-tracer/commit/4d3ce137097ecc9115a5b45ce01062716af02d5d) test: coverage improvements and GitHub Actions CI (#10) |
-| [Profile](https://github.com/AkshantVats/Profile) | 1 | 0 | 0 | 2h ago | [`03ef1f9`](https://github.com/AkshantVats/Profile/commit/03ef1f9bb41b59b13d17015ddd1904cf489ac554) sitemap+llms: Day 103 indexed |
+| [Profile](https://github.com/AkshantVats/Profile) | 1 | 0 | 0 | 4h ago | [`974b056`](https://github.com/AkshantVats/Profile/commit/974b0561e88e9b260c4d35d879e0c96bf549d99f) sitemap+llms: Day 104 indexed |
 <!-- LIVE_REPO_PULSE:END -->
 
 ### Latest writing
 
 <!-- LATEST_BLOG_POSTS:START -->
+- [Day 104 — CUSUM — Detecting Sustained Shifts](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-104-cusum-detecting-sustained-shifts.html)
+- [Day 104 — CUSUM in Manufacturing IoT — Walmart Inspiration](https://akshantvats.github.io/Profile/blog/series/experience/day-104-cusum-control-charts-walmart-hvac-drift.html)
 - [Day 103 — Eval Economics — When Judges Pay Off](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-103-eval-economics-when-judges-pay-off.html)
 - [Day 103 — FinOps at Scale — Token Cost Visibility](https://akshantvats.github.io/Profile/blog/series/experience/day-103-finops-at-scale-token-cost-visibility.html)
 - [Day 102 — Quality Time Series — Dashboard Design](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-102-quality-time-series-dashboard-design.html)
-- [Day 102 — Executive Dashboards — One Chart, One Question](https://akshantvats.github.io/Profile/blog/series/experience/day-102-executive-dashboards-one-chart-one-question.html)
-- [Day 101 — Hypothesis Testing for Model Drops](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-101-hypothesis-testing-for-model-drops.html)
 <!-- LATEST_BLOG_POSTS:END -->
 
 ### Recent public activity
 
 <!-- RECENT_ACTIVITY:START -->
-- `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
-- `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
-- `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
-- `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
-- `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
-- `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
+- `4h ago` created branch in [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan)
+- `4h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
+- `4h ago` pushed to [AkshantVats/Profile](https://github.com/AkshantVats/Profile): pushed commits
+- `4h ago` pushed to [AkshantVats/Profile](https://github.com/AkshantVats/Profile): pushed commits
+- `4h ago` created branch in [AkshantVats/Profile](https://github.com/AkshantVats/Profile)
+- `4h ago` opened PR [pull request in AkshantVats/infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming)
 <!-- RECENT_ACTIVITY:END -->
 
 ---

@@ -99,30 +99,30 @@ The umbrella repo for the five-product control plane. Start here to see how Lens
 <!-- LIVE_REPO_PULSE:START -->
 | Repo | Stars | Forks | Open issues | Last push | Latest commit |
 |---|---:|---:|---:|---:|---|
-| [infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming) | 0 | 0 | 7 | 4h ago | [`dae8623`](https://github.com/AkshantVats/infra-ai-streaming/commit/dae862321c77d63b8d9e96ef72c9cdda5b803ae2) feat(llm-judge-eval): judge cost dashboard for spend vs drift value (Day 103) (#177) |
-| [ebpf-llm-tracer](https://github.com/AkshantVats/ebpf-llm-tracer) | 0 | 0 | 0 | 16d ago | [`4d3ce13`](https://github.com/AkshantVats/ebpf-llm-tracer/commit/4d3ce137097ecc9115a5b45ce01062716af02d5d) test: coverage improvements and GitHub Actions CI (#10) |
-| [Profile](https://github.com/AkshantVats/Profile) | 1 | 0 | 0 | 3h ago | [`81a141e`](https://github.com/AkshantVats/Profile/commit/81a141e106968ecc596f411d81f09e4deedb63cd) sitemap+llms: Day 105 indexed |
+| [infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming) | 0 | 0 | 8 | 1h ago | [`dae8623`](https://github.com/AkshantVats/infra-ai-streaming/commit/dae862321c77d63b8d9e96ef72c9cdda5b803ae2) feat(llm-judge-eval): judge cost dashboard for spend vs drift value (Day 103) (#177) |
+| [ebpf-llm-tracer](https://github.com/AkshantVats/ebpf-llm-tracer) | 0 | 0 | 0 | 17d ago | [`4d3ce13`](https://github.com/AkshantVats/ebpf-llm-tracer/commit/4d3ce137097ecc9115a5b45ce01062716af02d5d) test: coverage improvements and GitHub Actions CI (#10) |
+| [Profile](https://github.com/AkshantVats/Profile) | 1 | 0 | 0 | 1h ago | [`2f8620c`](https://github.com/AkshantVats/Profile/commit/2f8620c741e186d3a97fbb70b14a8022f2555b5c) sitemap+llms: Day 106 indexed |
 <!-- LIVE_REPO_PULSE:END -->
 
 ### Latest writing
 
 <!-- LATEST_BLOG_POSTS:START -->
+- [Day 106 — Hierarchical Drift — Global vs Segment](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-106-hierarchical-drift-global-vs-segment.html)
+- [Day 106 — Segmented SLOs — Delivery Hero Peak Zones](https://akshantvats.github.io/Profile/blog/series/experience/day-106-segmented-slos-delivery-hero-peak-zones.html)
 - [Day 105 — CUSUM vs Simple Thresholds](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-105-cusum-vs-simple-thresholds.html)
 - [Day 105 — Alert Fatigue at Agoda — 300 Pages in One Night](https://akshantvats.github.io/Profile/blog/series/experience/day-105-alert-fatigue-at-agoda-cooldown-lessons.html)
 - [Day 104 — CUSUM — Detecting Sustained Shifts](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-104-cusum-detecting-sustained-shifts.html)
-- [Day 104 — CUSUM in Manufacturing IoT — Walmart Inspiration](https://akshantvats.github.io/Profile/blog/series/experience/day-104-cusum-control-charts-walmart-hvac-drift.html)
-- [Day 103 — Eval Economics — When Judges Pay Off](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-103-eval-economics-when-judges-pay-off.html)
 <!-- LATEST_BLOG_POSTS:END -->
 
 ### Recent public activity
 
 <!-- RECENT_ACTIVITY:START -->
-- `3h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
-- `3h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
-- `3h ago` pushed to [AkshantVats/Profile](https://github.com/AkshantVats/Profile): pushed commits
-- `3h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
-- `3h ago` pushed to [AkshantVats/Profile](https://github.com/AkshantVats/Profile): pushed commits
-- `3h ago` created branch in [AkshantVats/Profile](https://github.com/AkshantVats/Profile)
+- `1h ago` created branch in [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan)
+- `1h ago` pushed to [AkshantVats/Profile](https://github.com/AkshantVats/Profile): pushed commits
+- `1h ago` created branch in [AkshantVats/infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming)
+- `1h ago` pushed to [AkshantVats/Profile](https://github.com/AkshantVats/Profile): pushed commits
+- `1h ago` created branch in [AkshantVats/Profile](https://github.com/AkshantVats/Profile)
+- `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
 <!-- RECENT_ACTIVITY:END -->
 
 ---

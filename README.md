@@ -99,30 +99,30 @@ The umbrella repo for the five-product control plane. Start here to see how Lens
 <!-- LIVE_REPO_PULSE:START -->
 | Repo | Stars | Forks | Open issues | Last push | Latest commit |
 |---|---:|---:|---:|---:|---|
-| [infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming) | 0 | 0 | 5 | 1h ago | [`c513e99`](https://github.com/AkshantVats/infra-ai-streaming/commit/c513e99cf7354c316513bee3c34c6f73812ff6ac) Day 107: drift-detector alert payload — worst samples, model version, window |
+| [infra-ai-streaming](https://github.com/AkshantVats/infra-ai-streaming) | 0 | 0 | 6 | 4h ago | [`c513e99`](https://github.com/AkshantVats/infra-ai-streaming/commit/c513e99cf7354c316513bee3c34c6f73812ff6ac) Day 107: drift-detector alert payload — worst samples, model version, window |
 | [ebpf-llm-tracer](https://github.com/AkshantVats/ebpf-llm-tracer) | 0 | 0 | 0 | 17d ago | [`4d3ce13`](https://github.com/AkshantVats/ebpf-llm-tracer/commit/4d3ce137097ecc9115a5b45ce01062716af02d5d) test: coverage improvements and GitHub Actions CI (#10) |
-| [Profile](https://github.com/AkshantVats/Profile) | 1 | 0 | 0 | 1h ago | [`303f930`](https://github.com/AkshantVats/Profile/commit/303f9304004769442b445ca26c9bcd9a03a5ff27) sitemap+llms: Day 107 indexed |
+| [Profile](https://github.com/AkshantVats/Profile) | 1 | 0 | 0 | 4h ago | [`6c19744`](https://github.com/AkshantVats/Profile/commit/6c1974435203b43f197ade74cb597cfab0441727) sitemap+llms: Day 108 indexed |
 <!-- LIVE_REPO_PULSE:END -->
 
 ### Latest writing
 
 <!-- LATEST_BLOG_POSTS:START -->
+- [Day 108 — Metrics vs Logs for Drift Events](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-108-metrics-vs-logs-drift-events.html)
+- [Day 108 — Grafana as Communication — LensAI Month Reflection](https://akshantvats.github.io/Profile/blog/series/experience/day-108-grafana-as-communication-agoda-cross-tier-queries.html)
 - [Day 107 — Explainable Alerts — Sampled Evidence](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-107-explainable-alerts-sampled-evidence.html)
 - [Day 107 — Postmortem Culture — Root Cause Samples Required](https://akshantvats.github.io/Profile/blog/series/experience/day-107-postmortem-culture-wayfair-dead-letter-rows.html)
 - [Day 106 — Hierarchical Drift — Global vs Segment](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-106-hierarchical-drift-global-vs-segment.html)
-- [Day 106 — Segmented SLOs — Delivery Hero Peak Zones](https://akshantvats.github.io/Profile/blog/series/experience/day-106-segmented-slos-delivery-hero-peak-zones.html)
-- [Day 105 — CUSUM vs Simple Thresholds](https://akshantvats.github.io/Profile/blog/series/ai-learning/day-105-cusum-vs-simple-thresholds.html)
 <!-- LATEST_BLOG_POSTS:END -->
 
 ### Recent public activity
 
 <!-- RECENT_ACTIVITY:START -->
-- `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
-- `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
-- `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
-- `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
-- `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
-- `1h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
+- `3h ago` created branch in [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan)
+- `4h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
+- `4h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
+- `4h ago` pushed to [AkshantVats/Profile](https://github.com/AkshantVats/Profile): pushed commits
+- `4h ago` pushed to [AkshantVats/akshant-150-day-plan](https://github.com/AkshantVats/akshant-150-day-plan): pushed commits
+- `4h ago` pushed to [AkshantVats/Profile](https://github.com/AkshantVats/Profile): pushed commits
 <!-- RECENT_ACTIVITY:END -->
 
 ---
